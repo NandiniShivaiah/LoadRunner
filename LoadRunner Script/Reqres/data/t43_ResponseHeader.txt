@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tue, 06 Feb 2024 10:04:06 GMT
+Content-Type: application/javascript
+Transfer-Encoding: chunked
+Connection: keep-alive
+Last-Modified: Thu, 23 Nov 2023 19:19:24 GMT
+Vary: Accept-Encoding
+ETag: W/"655fa5bc-67b8"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=86400
+CF-Cache-Status: HIT
+Age: 47385
+Set-Cookie: _cfuvid=l25b7_X4T.d.iTXeCE437IjS.1mHWHPToQd13.2mFKo-1707213846869-0-604800000; path=/; domain=.codesandbox.io; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 8512912ed81f7ed9-MAA
+Content-Encoding: br
+

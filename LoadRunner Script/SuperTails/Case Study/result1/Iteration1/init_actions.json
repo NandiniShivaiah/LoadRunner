@@ -1,0 +1,26 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: katalon-demo-cura.herokuapp.com",
+                "infFile": "t1.inf",
+                "time": 1707731724226
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: profile.php",
+                "infFile": "t2.inf",
+                "time": 1707731727512
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: json",
+                "infFile": "t3.inf",
+                "time": 1707731727938
+            }
+        ],
+        "transactions": []
+    }
+]

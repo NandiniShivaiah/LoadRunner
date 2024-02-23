@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "Login",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Submit Data: authenticate.php",
+                "infFile": "t4.inf",
+                "time": 1707731728474
+            }
+        ],
+        "transactions": []
+    }
+]

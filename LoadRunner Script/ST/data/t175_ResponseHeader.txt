@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 2766
+Last-Modified: Tue, 05 Sep 2023 05:05:24 GMT
+ETag: "dec4bf81359b4878665592eb81766b03"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: viewport-width, dpr
+Accept-Ranges: bytes
+Cache-Control: public, max-age=17693269
+Expires: Wed, 04 Sep 2024 05:14:20 GMT
+Date: Mon, 12 Feb 2024 10:26:31 GMT
+Connection: keep-alive
+

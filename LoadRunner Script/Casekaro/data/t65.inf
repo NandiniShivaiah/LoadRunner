@@ -1,0 +1,11 @@
+[t65]
+FileName1=t65.htm
+URL1=https://s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101674f589b34f358b92a039741f36d08e007af81ba41fa2d9ce939390f2dc10d7c&old_oo=0&ts=1707307441814&s=AdfmVubYpR099_y_V3DUfBwqSS-FkJghh0JF9hYAg1F7&gdpr_consent=&gdpr_consent_avl=&cb=1707307441814&dcc=t
+Total=1
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_65.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+server: nginx
+date: Mon, 12 Feb 2024 10:24:31 GMT
+content-type: application/javascript; charset=utf-8
+transfer-encoding: chunked
+content-security-policy: script-src 'self' 'unsafe-eval' https://*.flixcart.com https://*.flixcart.net https://flipkart.d1.sc.omtrdc.net https://dpm.demdex.net https://tnc.phonepe.com https://captcha.px-cdn.net https://js-agent.newrelic.com https://bam.nr-data.net https://www.googletagmanager.com 'nonce-12755579068477271610'; style-src 'self' 'unsafe-inline' https://*.flixcart.com https://tnc.phonepe.com https://*.flixcart.net; img-src 'self' data: blob: https://*.flixcart.com https://*.flixcart.net https://images.ixigo.com https://flipkart.d1.sc.omtrdc.net https://www.facebook.com https://*.fkapi.net https://googleads.g.doubleclick.net https://www.google.com https://www.google.co.in https://www.googleadservices.com https://sp.analytics.yahoo.com https://bat.bing.com https://bat.r.msn.com https://pay.payzippy.com https://1.pay.payzippy.com https://tnc.phonepe.com; font-src 'self' data: https://*.flixcart.com https://tnc.phonepe.com https://*.flixcart.net; frame-src 'self' https://*.flipkart.com http://*.flipkart.com https://*.youtube.com https://youtube.com https://*.vimeo.com https://pay.payzippy.com https://1.pay.payzippy.com https://tnc.phonepe.com https://cdemux.appspot.com https://static-assets-web.flixcart.com/ 'nonce-12755579068477271610'; worker-src 'self' https://*.flipkart.com blob:; child-src 'self' https://*.flipkart.com 'nonce-12755579068477271610'; connect-src 'self' *; object-src 'none'; base-uri 'self'; media-src https://static-assets-web.flixcart.com/; report-uri https://csp-flkt.domdog.io/report-uri/flipkart.com/3/1-1
+content-security-policy-report-only: form-action 'self'; manifest-src 'self'; report-uri https://csp-flkt.domdog.io/report-uri/flipkart.com/3/2-1
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: DENY
+last-modified: Tue, 06 Feb 2024 04:56:50 GMT
+expires: Mon, 12 Feb 2024 10:24:30 GMT
+cache-control: no-cache
+content-encoding: gzip
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+

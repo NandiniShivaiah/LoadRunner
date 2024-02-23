@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+access-control-allow-origin: *
+date: Mon, 12 Feb 2024 10:23:33 GMT
+p3p: CP="This is not a P3P policy"
+server: jag
+vary: Origin
+content-type: application/x-javascript;charset=utf-8
+content-length: 67
+cache-control: no-cache, no-store, max-age=0, no-transform, private
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+

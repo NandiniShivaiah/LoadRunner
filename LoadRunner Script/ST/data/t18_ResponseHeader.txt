@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: application/font-woff2
+Content-Length: 11284
+Last-Modified: Tue, 24 Jan 2023 12:22:10 GMT
+ETag: "6519822837c4151236c94a4c01f814a9"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: viewport-width, dpr
+Accept-Ranges: bytes
+Cache-Control: public, max-age=18991287
+Expires: Thu, 19 Sep 2024 05:44:59 GMT
+Date: Mon, 12 Feb 2024 10:23:32 GMT
+Connection: keep-alive
+

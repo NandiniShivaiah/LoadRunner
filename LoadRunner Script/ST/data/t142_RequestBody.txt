@@ -1,0 +1,3 @@
+"{\"query\":\"lapt\",\"contextUri\":\"/\",\"marketPlaceId\":\"FLIPKART\",\"types\":[\"QUERY\",\""
+"QUERY_STORE\",\"PRODUCT\",\"RICH\",\"PARTITION\"],\"rows\":10,\"zeroPrefixHistory\":false,\"us"
+"erTimeStamp\":1707732954611,\"searchBrowseHistory\":[]}"

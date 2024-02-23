@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+date: Mon, 12 Feb 2024 10:25:30 GMT
+access-control-allow-origin: https://www.flipkart.com
+vary: Origin
+access-control-allow-credentials: true
+access-control-max-age: 1800
+access-control-allow-methods: OPTIONS,GET,PUT,POST,DELETE,HEAD
+access-control-allow-headers: X-Requested-With,Content-Type,Accept,Origin,Authorization
+content-type: text/plain
+allow: POST,OPTIONS
+content-length: 13
+

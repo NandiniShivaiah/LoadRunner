@@ -1,0 +1,14 @@
+[
+    {
+        "actionName": "vuser_end",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: authenticate.php_2",
+                "infFile": "t5.inf",
+                "time": 1707731729328
+            }
+        ],
+        "transactions": []
+    }
+]

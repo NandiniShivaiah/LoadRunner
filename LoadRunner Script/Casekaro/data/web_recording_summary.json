@@ -1,0 +1,1992 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-client-data",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "viewport-width",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-viewport-width",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform-version",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-dpr",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-device-memory",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "rtt",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "ect",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "dpr",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "downlink",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "device-memory",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "content-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.google.octet-stream-compressible"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 37,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Feb-07-2024",
+    "RecordingDuration": 69625,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1707307436,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 1102978,
+    "TotalBytesSent": 407331,
+    "TotalRequests": 181,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "ssl-images-amazon.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.161.209.3",
+          "IncludeInScript": true,
+          "Name": "images-na.ssl-images-amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 32,
+              "EventId": 767,
+              "HttpStatus": 200,
+              "Size": 35838,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/71gWdwzzicL.js?AUIClients/ACICAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 32,
+              "EventId": 765,
+              "HttpStatus": 200,
+              "Size": 67577,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/81xk1hDaq+L.js?AUIClients/FWCIMAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 763,
+              "HttpStatus": 200,
+              "Size": 14157,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/51Xm0KLvSZL.js?AUIClients/IdentityJsCommonAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 755,
+              "HttpStatus": 200,
+              "Size": 91357,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/8135BpGZX3L.js?AUIClients/SiegeClientSideEncryptionAUI"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 752,
+              "HttpStatus": 200,
+              "Size": 30656,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/717+I1mmXfL.js?AUIClients/IdentityWebAuthnAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 750,
+              "HttpStatus": 200,
+              "Size": 3742,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/31jdfgcsPAL.js?AUIClients/AmazonUIFormControlsJS"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 32,
+              "EventId": 748,
+              "HttpStatus": 200,
+              "Size": 6503,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/41De8-d1mSL.js?AUIClients/CVFAssets"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 743,
+              "HttpStatus": 200,
+              "Size": 351,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/01wGDSlxwdL.js?AUIClients/AuthenticationPortalInlineAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 62,
+              "EventId": 733,
+              "HttpStatus": 200,
+              "Size": 26166,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/21ZMwVh4T0L._RC%7C21OJDARBhQL.js,218GJg15I8L.js,31lucpmF4CL.js,2119M3Ks9rL.js,61jRJeIkq3L.js_.js?AUIClients/AuthenticationPortalAssets&L3XM6gEo"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 32,
+              "EventId": 730,
+              "HttpStatus": 200,
+              "Size": 95148,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/61yXDIPmT-L._RC%7C11Y+5x+kkTL.js,51KMV3Cz2XL.js,31x4ENTlVIL.js,31f4+QIEeqL.js,01N6xzIJxbL.js,518BI433aLL.js,01rpauTep4L.js,31QZSjMuoeL.js,61ofwvddDeL.js,01KsMxlPtzL.js_.js?AUIClients/AmazonUI"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 32,
+              "EventId": 708,
+              "HttpStatus": 200,
+              "Size": 1276,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/21PFuszay6L.css?AUIClients/CVFAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 704,
+              "HttpStatus": 200,
+              "Size": 8266,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/01SdjaY0ZsL._RC%7C31jdWD+JB+L.css,51ndJ60shfL.css_.css?AUIClients/AuthenticationPortalAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 32,
+              "EventId": 701,
+              "HttpStatus": 200,
+              "Size": 20880,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/61FHWUKEhjL._RC%7C11Fd9tJOdtL.css,11tfezETfFL.css,31Q3id-QR0L.css,31U9HrBLKmL.css_.css?AUIClients/AmazonUI"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 444,
+              "HttpStatus": 200,
+              "Size": 1492,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/11332qFtqpL.js?xcp"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 441,
+              "HttpStatus": 200,
+              "Size": 941,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/11UWaAUUu6L.js?xcp"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 439,
+              "HttpStatus": 200,
+              "Size": 1367,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/11IkBa9uTqL.js?xcp"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 432,
+              "HttpStatus": 200,
+              "Size": 4227,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/31bJewCvY-L.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 63,
+              "EventId": 259,
+              "HttpStatus": 200,
+              "Size": 153814,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC%7C71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,313ANWt5xVL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41k8iTU2aPL.js_.js?AUIClients/NavDesktopUberAsset&XeG1J2E3"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 47,
+              "EventId": 257,
+              "HttpStatus": 200,
+              "Size": 2625,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/31YI0nnbQAL.js?AUIClients/AmazonGatewayHerotatorJS"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 62,
+              "EventId": 255,
+              "HttpStatus": 200,
+              "Size": 8772,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/11y85pohsPL._RC%7C41JZmnaIUdL.js_.js?AUIClients/AmazonGatewayAuiAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 253,
+              "HttpStatus": 200,
+              "Size": 342,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/01rGP6HIADL.js?AUIClients/GenericObservableJS"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 203,
+              "HttpStatus": 200,
+              "Size": 25133,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/us-manual-merchandising/XCM_CUTTLE_1622894_3373440_379x304_1X_en_size1_US._SY304_CB597469214_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 201,
+              "HttpStatus": 200,
+              "Size": 19688,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v10._SY304_CB573698005_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 199,
+              "HttpStatus": 200,
+              "Size": 3394,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/img22/Events/Fall23/FALL23_HP_Oct_Decor_QuadCard_D_04_186x116._SY116_CB596234042_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 195,
+              "HttpStatus": 200,
+              "Size": 4611,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/img22/Events/Fall23/FALL23_Oct_Pillows_Decor_QuadCard_D_02_186x116._SY116_CB596234042_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 190,
+              "HttpStatus": 200,
+              "Size": 5335,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/img22/Events/Fall23/FALL23_HP_Oct_Decor_QuadCard_D_03_186x116._SY116_CB596234042_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 188,
+              "HttpStatus": 200,
+              "Size": 20636,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/us-manual-merchandising/RBS-in-house-Graphics/cc_359_laptop_us_v1._SY304_CB576754001_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 186,
+              "HttpStatus": 200,
+              "Size": 5222,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/img22/Events/Fall23/FALL23_Oct_Wreaths_Decor_QuadCard_D_01_186x116._SY116_CB596234042_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 184,
+              "HttpStatus": 200,
+              "Size": 19498,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1622892_3373436_379x304_1X_en_US._SY304_CB597161294_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 182,
+              "HttpStatus": 200,
+              "Size": 14785,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1546843_2940864_379x304_1X_en_US._SY304_CB613273467_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 180,
+              "HttpStatus": 200,
+              "Size": 3343,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 177,
+              "HttpStatus": 200,
+              "Size": 2519,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 175,
+              "HttpStatus": 200,
+              "Size": 3733,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 173,
+              "HttpStatus": 200,
+              "Size": 2270,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 171,
+              "HttpStatus": 200,
+              "Size": 18918,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 166,
+              "HttpStatus": 200,
+              "Size": 6082,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_4_x1._SY116_CB595261253_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 164,
+              "HttpStatus": 200,
+              "Size": 5590,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_1_x1._SY116_CB595261253_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 162,
+              "HttpStatus": 200,
+              "Size": 5830,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_3_x1._SY116_CB595261253_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 160,
+              "HttpStatus": 200,
+              "Size": 5836,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_2_x1._SY116_CB595261253_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 158,
+              "HttpStatus": 200,
+              "Size": 3419,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2022/img/Consumer_Electronics/XCM_CUTTLE_1468425_2580538_186x116_1X_en_US._SY116_CB609480017_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 16,
+              "EventId": 156,
+              "HttpStatus": 200,
+              "Size": 5785,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1545875_2934703_186x116_1X_en_US._SY116_CB613346538_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 148,
+              "HttpStatus": 200,
+              "Size": 17033,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/LunarNY/Fuji_Single_card_Lunar_New_Year_Graphics_1x_EN._SY304_CB585956471_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 146,
+              "HttpStatus": 200,
+              "Size": 3991,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2022/img/Consumer_Electronics/XCM_CUTTLE_1468425_2580535_186x116_1X_en_US._SY116_CB609480017_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 144,
+              "HttpStatus": 200,
+              "Size": 5307,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1546380_2938463_186x116_1X_en_US._SY116_CB613156637_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 142,
+              "HttpStatus": 200,
+              "Size": 29337,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 140,
+              "HttpStatus": 200,
+              "Size": 5124,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_health-beauty_B07662GN57_01.23._SY116_CB619238939_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 138,
+              "HttpStatus": 200,
+              "Size": 5290,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_kitchen_B0126LMDFK_01.23._SY116_CB619238939_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 129,
+              "HttpStatus": 200,
+              "Size": 5141,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_home_B08RCCP3HV_01.23._SY116_CB619238939_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 5490,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_LP-HP_B08MYX5Q2W_01.23._SY116_CB619238939_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 125,
+              "HttpStatus": 200,
+              "Size": 18039,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 122,
+              "HttpStatus": 200,
+              "Size": 24344,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1555947_2997386_379x304_1X_en_US._SY304_CB594429819_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 31,
+              "EventId": 120,
+              "HttpStatus": 200,
+              "Size": 2430,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 15,
+              "EventId": 117,
+              "HttpStatus": 200,
+              "Size": 2545,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 98,
+              "HttpStatus": 200,
+              "Size": 4588,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 32,
+              "EventId": 92,
+              "HttpStatus": 200,
+              "Size": 4168,
+              "URL": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 89,
+              "HttpStatus": 200,
+              "Size": 4576,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/4171sdbgqbL.css?AUIClients/AmazonGatewayAuiAssets"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 32,
+              "EventId": 82,
+              "HttpStatus": 200,
+              "Size": 48532,
+              "URL": "https://images-na.ssl-images-amazon.com/images/I/41-WpIOxHtL._RC%7C71z85BIz8wL.css,41hk4fqGa9L.css,11KAm1wkQdL.css,31-P1-9TebL.css,31YZpDCYJPL.css,21pkK7OQMnL.css,41yQj5y2obL.css,110Nj+wUGYL.css,31OvHRW+XiL.css,01R53xsjpjL.css,11EKggV-DlL.css,41yKpEQVJkL.css,01YWmXMYw8L.css,11qTzxZ0Y5L.css_.css?AUIClients/NavDesktopUberAsset&TiA+2wh/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "siege-amazon.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.155.99.17",
+          "IncludeInScript": true,
+          "Name": "static.siege-amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 823,
+              "HttpStatus": 200,
+              "Size": 989,
+              "URL": "https://static.siege-amazon.com/prod/profiles/AuthenticationPortalSigninNA.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "media-amazon.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.161.209.3",
+          "IncludeInScript": true,
+          "Name": "m.media-amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 94,
+              "EventId": 892,
+              "HttpStatus": 200,
+              "Size": 27972,
+              "URL": "https://m.media-amazon.com/images/S/sash/mPGmT0r6IeTyIee.png"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.35",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 281,
+              "EventId": 849,
+              "HttpStatus": 200,
+              "Size": 882,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=13:rkRjPHx0OWRwVZIfnyk07uHsdo8s6afB-OROBNhEF4U&cup2hreq=ea3f5c315f8c8890907076ca6926fb8cfe024bef1c69dd92892998fa02a5615a"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.99",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 219,
+              "EventId": 13,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=121"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.205.238",
+          "IncludeInScript": true,
+          "Name": "clients4.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 312,
+              "EventId": 336,
+              "HttpStatus": 200,
+              "Size": 255,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=57oxOBvCz9pMOcr26yQsbg%3D%3D"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "amazon.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.155.97.204",
+          "IncludeInScript": true,
+          "Name": "www.amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 16,
+              "EventId": 450,
+              "HttpStatus": 200,
+              "Size": 2477,
+              "URL": "https://www.amazon.com/favicon.ico"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 265,
+              "EventId": 425,
+              "HttpStatus": 200,
+              "Size": 67,
+              "URL": "https://www.amazon.com/rd/uedata?ld&v=0.277997.0&id=5AFSK1C7VNHSD7KRB97Y&sw=1280&sh=720&vw=1263&vh=541&m=1&sc=5AFSK1C7VNHSD7KRB97Y&ue=3&bb=306&ns=328&be=593&fp=424&fcp=424&pc=18224&tc=-4198&na_=-4198&ul_=-1707307441878&_ul=-1707307441878&rd_=-1707307441878&_rd=-1707307441878&fe_=-4063&lk_=-2943&_lk=-2943&co_=-2943&_co=-1388&sc_=-2836&rq_=-1386&rs_=-41&_rs=211&dl_=-7&di_=927&de_=928&_de=928&_dc=18224&ld_=18224&_ld=-1707307441878&ntd=0&ty=0&rc=0&hob=2&hoe=4&ld=18226&t=1707307460104&ctb=1&rt=__ld:102-6-3-90-4-0-1&ec=51&ecf=0&csmtags=aui|aui:aui_build_date:3.24.1-2024-02-05|mutObsYes|navbar|FWCIMEnabled|fls-na-amazon-com|perfYes|ak_cdn_fr|ak_cdn_mp|aui:sw:page_proxy:no_ctrl|adblk_yes&viz=visible:3&pty=Gateway&spty=desktop&pti=desktop&tid=5AFSK1C7VNHSD7KRB97Y&aftb=1&lob=1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 344,
+              "EventId": 19,
+              "HttpStatus": 200,
+              "Size": 125398,
+              "URL": "https://www.amazon.com/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.46.129.152",
+          "IncludeInScript": true,
+          "Name": "unagi.amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 897,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 886,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 860,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 838,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 235,
+              "EventId": 829,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 235,
+              "EventId": 816,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 808,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 218,
+              "EventId": 803,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 784,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 218,
+              "EventId": 698,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 684,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 677,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 626,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 719,
+              "EventId": 530,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "67.220.241.5",
+          "IncludeInScript": true,
+          "Name": "unagi-na.amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 516,
+              "EventId": 670,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 235,
+              "EventId": 272,
+              "HttpStatus": 200,
+              "Size": 22,
+              "URL": "https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "3.215.50.55",
+          "IncludeInScript": true,
+          "Name": "fls-na.amazon.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 907,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:872T2YKBQ37B6SB0SKCW$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D872T2YKBQ37B6SB0SKCW%26ctb%3D1%26m%3D1%26sc%3D872T2YKBQ37B6SB0SKCW%26pc%3D1871%26at%3D1871%26t%3D1707307507307%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26ui%3D2:1872"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 905,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:872T2YKBQ37B6SB0SKCW$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D872T2YKBQ37B6SB0SKCW%26ctb%3D1%26m%3D1%26sc%3D872T2YKBQ37B6SB0SKCW%26pc%3D1824%26at%3D1824%26t%3D1707307507260%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:1825"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 903,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 899,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:872T2YKBQ37B6SB0SKCW$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D872T2YKBQ37B6SB0SKCW%26sw%3D1280%26sh%3D720%26vw%3D1280%26vh%3D593%26m%3D1%26sc%3D872T2YKBQ37B6SB0SKCW%26ue%3D2%26bb%3D18%26cf%3D45%26be%3D51%26fp%3D44%26fcp%3D44%26pc%3D478%26tc%3D-2399%26na_%3D-2399%26ul_%3D-14%26_ul%3D-13%26rd_%3D-1707307505436%26_rd%3D-1707307505436%26fe_%3D-2382%26lk_%3D-2382%26_lk%3D-2382%26co_%3D-2382%26_co%3D-2382%26sc_%3D-1707307505436%26rq_%3D-2379%26rs_%3D-23%26_rs%3D-20%26dl_%3D-9%26di_%3D103%26de_%3D103%26_de%3D103%26_dc%3D477%26ld_%3D478%26_ld%3D-1707307505436%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D1%26hoe%3D3%26ld%3D478%26t%3D1707307505914%26ctb%3D1%26rt%3Dcf%3A14-11-3-0-2-14-1__ld%3A14-11-3-0-2-14-0%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.23.1-2023-12-20%7Cfls-na-amazon-com%7Cadblk_yes%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%26viz%3Dvisible%3A2%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:481"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 895,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:872T2YKBQ37B6SB0SKCW$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D872T2YKBQ37B6SB0SKCW%26sc0%3Daui%3Asw%3Appft%3Acallback_ricb%26bb0%3D16%26pc0%3D272%26ld0%3D272%26t0%3D1707307505708%26ctb%3D1:481"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 485,
+              "EventId": 879,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 875,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AgenerateProcessedForm%3AAuthenticationPortalSigninNA%26bb0%3D11831%26cf0%3D11861%26pc0%3D11861%26ld0%3D11861%26t0%3D1707307503026%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11861"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 873,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AgenerateProcessedForm%26bb0%3D11831%26cf0%3D11860%26pc0%3D11860%26ld0%3D11860%26t0%3D1707307503025%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11860"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 871,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AencryptString%3AAuthPortalSigninPasswordNA%26bb0%3D11833%26cf0%3D11859%26pc0%3D11859%26ld0%3D11859%26t0%3D1707307503024%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11859"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 858,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AencryptString%26bb0%3D11833%26cf0%3D11859%26pc0%3D11859%26ld0%3D11859%26t0%3D1707307503024%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11859"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 235,
+              "EventId": 856,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AencryptData%3AAuthPortalSigninPasswordNA%26bb0%3D11833%26cf0%3D11858%26pc0%3D11858%26ld0%3D11858%26t0%3D1707307503023%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11858"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AencryptData%26bb0%3D11833%26cf0%3D11858%26pc0%3D11858%26ld0%3D11858%26t0%3D1707307503023%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11858"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 204,
+              "EventId": 847,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26m%3D1%26sc%3D5B34J2N8S2V9PGCGR72F%26pc%3D8017%26at%3D8017%26t%3D1707307499182%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26ui%3D2:8017"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 845,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26m%3D1%26sc%3D5B34J2N8S2V9PGCGR72F%26pc%3D8003%26at%3D8003%26t%3D1707307499168%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:8003"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 833,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 827,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26sc0%3Daui%3Asw%3Appft%3Acallback_ricb%26bb0%3D19%26pc0%3D332%26ld0%3D332%26t0%3D1707307491497%26ctb%3D1:1346"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 825,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26sw%3D1280%26sh%3D720%26vw%3D1280%26vh%3D593%26m%3D1%26sc%3D5B34J2N8S2V9PGCGR72F%26ue%3D2%26bb%3D20%26cf%3D27%26be%3D52%26fp%3D48%26fcp%3D48%26pc%3D1343%26tc%3D-2121%26na_%3D-2121%26ul_%3D-14%26_ul%3D-13%26rd_%3D-1707307491165%26_rd%3D-1707307491165%26fe_%3D-2109%26lk_%3D-2109%26_lk%3D-2109%26co_%3D-2109%26_co%3D-2109%26sc_%3D-1707307491165%26rq_%3D-2107%26rs_%3D-23%26_rs%3D-20%26dl_%3D-8%26di_%3D243%26de_%3D244%26_de%3D244%26_dc%3D1343%26ld_%3D1343%26_ld%3D-1707307491165%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D1%26hoe%3D2%26ld%3D1343%26t%3D1707307492508%26ctb%3D1%26rt%3Dcf%3A7-4-3-0-1-7-1__ld%3A15-11-3-0-3-9-1%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.23.1-2023-12-20%7Cfls-na-amazon-com%7Cadblk_yes%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%26viz%3Dvisible%3A2%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:1346"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 810,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 806,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 799,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:562BTTCMD49RYK95H956$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D562BTTCMD49RYK95H956%26ctb%3D1%26m%3D1%26sc%3D562BTTCMD49RYK95H956%26pc%3D2333%26at%3D2333%26t%3D1707307479049%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26ui%3D2:2334"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 796,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:562BTTCMD49RYK95H956$uedata=s:%2Fap%2Fuedata%3Fat%26v%3D0.261013.0%26id%3D562BTTCMD49RYK95H956%26ctb%3D1%26m%3D1%26sc%3D562BTTCMD49RYK95H956%26pc%3D2301%26at%3D2301%26t%3D1707307479017%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:2302"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 794,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 235,
+              "EventId": 787,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:562BTTCMD49RYK95H956$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D562BTTCMD49RYK95H956%26sc0%3Daui%3Asw%3Appft%3Acallback_ricb%26bb0%3D298%26pc0%3D603%26ld0%3D603%26t0%3D1707307477319%26ctb%3D1:882"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 781,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:562BTTCMD49RYK95H956$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D562BTTCMD49RYK95H956%26sw%3D1280%26sh%3D720%26vw%3D1263%26vh%3D593%26m%3D1%26sc%3D562BTTCMD49RYK95H956%26ue%3D3%26bb%3D358%26cf%3D392%26be%3D402%26fp%3D619%26fcp%3D619%26pc%3D876%26tc%3D-838%26na_%3D-838%26ul_%3D-1707307476716%26_ul%3D-1707307476716%26rd_%3D-1707307476716%26_rd%3D-1707307476716%26fe_%3D-831%26lk_%3D-829%26_lk%3D-829%26co_%3D-829%26_co%3D-811%26sc_%3D-829%26rq_%3D-810%26rs_%3D-32%26_rs%3D-20%26dl_%3D-18%26di_%3D599%26de_%3D599%26_de%3D599%26_dc%3D876%26ld_%3D876%26_ld%3D-1707307476716%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D1%26hoe%3D3%26ld%3D877%26t%3D1707307477593%26ctb%3D1%26rt%3Dcf%3A3-0-3-0-1-0-0__ld%3A13-10-3-0-1-0-0%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.23.1-2023-12-20%7Cfls-na-amazon-com%7Cadblk_yes%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%26viz%3Dvisible%3A3%26pty%3DAuthenticationPortal%26spty%3DSignInClaimCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:882"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 484,
+              "EventId": 686,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 682,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 629,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 624,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 622,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 620,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 618,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 616,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 614,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 612,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 610,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 608,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 606,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 604,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 602,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 600,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 598,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 596,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 594,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 592,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 590,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 588,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 586,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 584,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 580,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 578,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 576,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 572,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 570,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 568,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 566,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 562,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 560,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 558,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 556,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 554,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 250,
+              "EventId": 550,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Aatfsi%26atfsi%3D1539%26pc%3D21056%26at%3D21056%26t%3D1707307462934%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21056"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 548,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Asi%26si%3D1539%26pc%3D21056%26at%3D21056%26t%3D1707307462934%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21055"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 546,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3AendVL%26pc%3D21056%26at%3D21056%26t%3D1707307462934%26csmtags%3DendVL%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21055"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 544,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Avl100%26vl100%3D1668%26pc%3D21056%26at%3D21056%26t%3D1707307462934%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21055"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 542,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Avl90%26vl90%3D1668%26pc%3D21056%26at%3D21056%26t%3D1707307462934%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21055"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 540,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Avl50%26vl50%3D1668%26pc%3D21055%26at%3D21055%26t%3D1707307462933%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21055"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 218,
+              "EventId": 538,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3AstartVL%26pc%3D21055%26at%3D21055%26t%3D1707307462933%26csmtags%3DstartVL%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21054"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 536,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3AbrowserQuiteMut%26pc%3D21045%26at%3D21045%26t%3D1707307462923%26csmtags%3DbrowserQuiteMut%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:21044"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 534,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 532,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 528,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 526,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 524,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 522,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 516,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 514,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 235,
+              "EventId": 512,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26ctb%3D1%26m%3D1%26sc%3D5AFSK1C7VNHSD7KRB97Y%26pc%3D20577%26at%3D20577%26t%3D1707307462455%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26ui%3D2%26lob%3D1:20576"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 510,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26ctb%3D1%26m%3D1%26sc%3D5AFSK1C7VNHSD7KRB97Y%26pc%3D20545%26at%3D20545%26t%3D1707307462423%26csmtags%3Dcsm-feature-touch-enabled%3Afalse%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:20545"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 508,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 506,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 504,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 502,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 498,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 496,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 494,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 492,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 488,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 486,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 484,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 219,
+              "EventId": 482,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 471,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3Alcp%26lcp%3D524%26pc%3D18269%26at%3D18269%26t%3D1707307460147%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:18268"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 469,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fat%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26m%3D1%26sc%3Dcsa%3AmutObsActive%26pc%3D18543%26at%3D18544%26t%3D1707307460422%26csmtags%3DmutObsActive%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:18543"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 466,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26ctb%3D1%26sc0%3DjQueryPageShow%26cf0%3D18266%26pc0%3D18266%26ld0%3D18266%26t0%3D1707307460144%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:18265"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 452,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26sc0%3Daui%3Asw%3Appft%3Acallback_ricb%26bb0%3D236%26pc0%3D936%26ld0%3D936%26t0%3D1707307442814%26sc1%3Dportal-bb%26pc1%3D15%26ld1%3D15%26t1%3D1707307442200%26sc2%3DheroAf%26cf2%3D412%26pc2%3D412%26ld2%3D412%26t2%3D1707307442290%26sc3%3Dh1Af%26cf3%3D413%26pc3%3D413%26ld3%3D413%26t3%3D1707307442291%26sc4%3Ddesktop-banner-stripe-visible%26cf4%3D414%26pc4%3D414%26ld4%3D414%26t4%3D1707307442292%26sc5%3DnavCF%26cf5%3D514%26pc5%3D514%26ld5%3D514%26t5%3D1707307442392%26sc6%3DcsmCELLSframework%26bb6%3D595%26pc6%3D595%26ld6%3D595%26t6%3D1707307442473%26sc7%3DcsmCELLSpdm%26bb7%3D595%26pc7%3D596%26ld7%3D596%26t7%3D1707307442474%26sc8%3DcsmCELLSvpm%26bb8%3D596%26pc8%3D596%26ld8%3D596%26t8%3D1707307442474%26sc9%3DcsmCELLSfem%26bb9%3D596%26pc9%3D597%26ld9%3D597%26t9%3D1707307442475%26sc10%3Due_sushi_v1%26bb10%3D597%26pc10%3D598%26ld10%3D598%26t10%3D1707307442476%26sc11%3Ddesktop-grid-1-visible%26cf11%3D1672%26pc11%3D1672%26ld11%3D1672%26t11%3D1707307443550%26sc12%3Ddesktop-grid-4-visible%26cf12%3D1672%26pc12%3D1672%26ld12%3D1672%26t12%3D1707307443550%26sc13%3Ddesktop-grid-8-visible%26cf13%3D1672%26pc13%3D1672%26ld13%3D1672%26t13%3D1707307443550%26sc14%3Ddesktop-grid-6-visible%26cf14%3D1677%26pc14%3D1677%26ld14%3D1677%26t14%3D1707307443555%26sc15%3Ddesktop-grid-7-visible%26cf15%3D1677%26pc15%3D1677%26ld15%3D1677%26t15%3D1707307443555%26sc16%3Ddesktop-grid-2-visible%26cf16%3D1678%26pc16%3D1678%26ld16%3D1678%26t16%3D1707307443556%26sc17%3Ddesktop-grid-3-visible%26cf17%3D1678%26pc17%3D1678%26ld17%3D1678%26t17%3D1707307443556%26sc18%3Ddesktop-btf-grid-1-visible%26cf18%3D1709%26pc18%3D1710%26ld18%3D1710%26t18%3D1707307443588%26sc19%3Ddesktop-btf-grid-2-visible%26cf19%3D1720%26pc19%3D1720%26ld19%3D1720%26t19%3D1707307443598%26sc20%3Ddesktop-btf-grid-3-visible%26cf20%3D1859%26pc20%3D1859%26ld20%3D1859%26t20%3D1707307443737%26sc21%3Ddesktop-btf-grid-6-visible%26cf21%3D1922%26pc21%3D1922%26ld21%3D1922%26t21%3D1707307443800%26sc22%3Ddesktop-btf-grid-4-visible%26cf22%3D1926%26pc22%3D1926%26ld22%3D1926%26t22%3D1707307443804%26sc23%3Ddesktop-btf-grid-5-visible%26cf23%3D1927%26pc23%3D1927%26ld23%3D1927%26t23%3D1707307443805%26sc24%3Ddesktop-btf-grid-8-visible%26cf24%3D1927%26pc24%3D1927%26ld24%3D1927%26t24%3D1707307443805%26sc25%3Ddesktop-btf-grid-7-visible%26cf25%3D1927%26pc25%3D1927%26ld25%3D1927%26t25%3D1707307443805%26sc26%3Dgateway-asset-load%26cf26%3D5743%26pc26%3D5743%26ld26%3D5743%26t26%3D1707307447621%26ctb%3D1:18231"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 446,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26sw%3D1280%26sh%3D720%26vw%3D1263%26vh%3D541%26m%3D1%26sc%3D5AFSK1C7VNHSD7KRB97Y%26ue%3D3%26bb%3D306%26ns%3D328%26be%3D593%26fp%3D424%26fcp%3D424%26pc%3D18224%26tc%3D-4198%26na_%3D-4198%26ul_%3D-1707307441878%26_ul%3D-1707307441878%26rd_%3D-1707307441878%26_rd%3D-1707307441878%26fe_%3D-4063%26lk_%3D-2943%26_lk%3D-2943%26co_%3D-2943%26_co%3D-1388%26sc_%3D-2836%26rq_%3D-1386%26rs_%3D-41%26_rs%3D211%26dl_%3D-7%26di_%3D927%26de_%3D928%26_de%3D928%26_dc%3D18224%26ld_%3D18224%26_ld%3D-1707307441878%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D2%26hoe%3D4%26ld%3D18226%26t%3D1707307460104%26ctb%3D1%26rt%3D__ld%3A102-6-3-90-4-0-1%26ec%3D51%26ecf%3D0%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.24.1-2024-02-05%7CmutObsYes%7Cnavbar%7CFWCIMEnabled%7Cfls-na-amazon-com%7CperfYes%7Cak_cdn_fr%7Cak_cdn_mp%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%7Cadblk_yes%26viz%3Dvisible%3A3%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:18231"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 218,
+              "EventId": 349,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/remote-weblab-triggers/1/OE/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$s:wl-client-id%3DCSMTriger%2Cwl%3DUEDATA_AA_SERVERSIDE_ASSIGNMENT_CLIENTSIDE_TRIGGER_190249%2FT1:1234"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 469,
+              "EventId": 296,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OE/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 217,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3D5AFSK1C7VNHSD7KRB97Y:0"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "amazon-adsystem.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.46.130.91",
+          "IncludeInScript": true,
+          "Name": "s.amazon-adsystem.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 235,
+              "EventId": 582,
+              "HttpStatus": 200,
+              "Size": 65,
+              "URL": "https://s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101674f589b34f358b92a039741f36d08e007af81ba41fa2d9ce939390f2dc10d7c&old_oo=0&ts=1707307441814&s=AdfmVubYpR099_y_V3DUfBwqSS-FkJghh0JF9hYAg1F7&gdpr_consent=&gdpr_consent_avl=&cb=1707307441814&dcc=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 219,
+              "EventId": 564,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://s.amazon-adsystem.com/iu3?d=amazon.com&slot=navFooter&a2=0101674f589b34f358b92a039741f36d08e007af81ba41fa2d9ce939390f2dc10d7c&old_oo=0&ts=1707307441814&s=AdfmVubYpR099_y_V3DUfBwqSS-FkJghh0JF9hYAg1F7&gdpr_consent=&gdpr_consent_avl=&cb=1707307441814"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 10
+}

@@ -1,0 +1,10 @@
+[t42]
+FileName1=t40.json
+URL1=https://collector-pxgnttli3a.px-cloud.net/api/v2/collector
+Total=1
+SnapshotXmlFile=snapshot_42.xml
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t42_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

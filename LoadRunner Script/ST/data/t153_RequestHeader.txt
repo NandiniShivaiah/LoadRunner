@@ -1,0 +1,20 @@
+POST /api/1/fdp HTTP/1.1
+Host: 2.rome.api.flipkart.com
+Connection: keep-alive
+Content-Length: 1452
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+X-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 FKUA/website/42/website/Desktop
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://www.flipkart.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.flipkart.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c; K-ACTION=null; vw=1280; dpr=1; Network-Type=4g; pxcts=c618c70c-c990-11ee-919b-abf8d8cac8c0; _pxvid=c618bc5a-c990-11ee-919b-55690eef1cc4; AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg=1; gpv_pn=HomePage; gpv_pn_t=FLIPKART%3AHomePage; s_cc=true; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C19766%7CMCMID%7C91301039696235577497612905762942785164%7CMCAAMLH-1708337648%7C12%7CMCAAMB-1708337648%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1707740049s%7CNONE%7CMCAID%7CNONE; rt=null; ud=3.SP0ce73iy-9UIHfyFoQdCcO3EU7CI6_czdf7l1XSkSGBSamvtwRGS9qZ8UUhubL7LOLHH5atdWoEd5-U4S86MCO6vUvmEzDqKdew5YlLy_J_OnXwtYovr04Yd7g5mmhXqlJyAQhMpzEksorq2_-TCg; vd=VI50872672C3D24024A4AB1387BB17D0C6-1707733469993-1.1707733469.1707733469.150325043; vh=593; _px3=34f0a220ef5b988bfe7bf8298546f1d4038c9d88ce93dfec1b3de89d1ef86ddf:ZOs+CFYaGNJAmeqpQwEazmKSFYd6xvdMPDxTlluaN3xlGbwwOK32flVzahfAg9jBZX69dO/eAmVSrHZhadWTLQ==:1000:MuGzWKUZ09Dbe5P/Y2qRK7D9cgm9oAFwB3493fA6Jb4MbCpEg8IRHaOkNmzU21DyEodfGVu31K7NH3jj6tSgfY57dAv+1qHkGwsBaAVzP1zSC2SSspADJhwbeGrj8tjKt8AhUWVvon/VJVZlyR7eOQTQRuWnbGOcLl5q2Q7ja60oB7meFq+I5ofqaCRO47yLUy1218siM1rEICEIjAoGkc6pZjLLC1zD/5SfqfIrqyw=; S=d1t10BT8lPwUAAjQ/Lz8/GD8qXyRM6z5jloXYk+Ehr+Pyu5wirDQbdKUzLVa8W3Y+C/9aPMwv823ZWPA7dXM0mr2oZw==; s_sq=flipkart-prd%3D%2526pid%253DHomePage%2526pidt%253D1%2526oid%253DSearch%252520Icon%2526oidt%253D3%2526ot%253DSUBMIT; SN=VI50872672C3D24024A4AB1387BB17D0C6.TOK0D0D1E7F5F08452CAA54811DEB6842AA.1707733522.LO
+

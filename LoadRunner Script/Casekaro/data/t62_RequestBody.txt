@@ -1,0 +1,8 @@
+"{\"rid\":\"5AFSK1C7VNHSD7KRB97Y\",\"sid\":\"133-6658273-5713951\",\"mid\":\"ATVPDKIKX0DER\",\""
+"sn\":\"www.amazon.com\",\"reqs\":[{\"jserr-rw\":{\"m\":\"deals-shoveler-v2: Image failed to lo"
+"ad https://m.media-amazon.com/images/I/51EhkT3Ae8L._AC_SY200_.jpg\",\"name\":\"Error\",\"csm\""
+":\"v5 ueLogError stack\",\"logLevel\":\"ERROR\",\"attribution\":\"gatewayCardImageError\",\"pa"
+"geURL\":\"https://www.amazon.com/\",\"f\":\"https://www.amazon.com/\",\"l\":\"172\",\"s\":[\"E"
+"rror: Image failed to load https://m.media-amazon.com/images/I/51EhkT3Ae8L._AC_SY200_.jpg\",\""
+"at HTMLImageElement.d (https://www.amazon.com/:172:209)\"],\"t\":19811}},{\"csmcount\":{\"coun"
+"ter\":\"foresterPayloadSize\",\"t\":0,\"value\":642}}]}"

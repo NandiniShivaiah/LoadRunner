@@ -1,0 +1,10 @@
+[t108]
+FileName1=t94.json
+URL1=https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Total=1
+SnapshotXmlFile=snapshot_108.xml
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t108_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

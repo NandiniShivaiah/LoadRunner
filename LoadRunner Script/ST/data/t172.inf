@@ -1,0 +1,10 @@
+[t172]
+FileName1=t161.htm
+URL1=https://www.flipkart.com/
+Total=1
+SnapshotXmlFile=snapshot_172.xml
+RequestHeaderFile=t172_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t172_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

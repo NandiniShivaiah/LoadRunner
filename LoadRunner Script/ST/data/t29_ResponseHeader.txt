@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/javascript; charset=utf-8
+Access-Control-Allow-Origin: *
+x-px-hash: ZDkwMTI3NGE1OTZhMjA3ZmY3YWY3NzRkMmIyNzNlYjNiNTgyYTc5YjMzYzRmMjlhODA1NTM4ZjJjZDQxYmM2YQ==
+ETag: W/"2a64f-BEzYN7dtGWry9v6dohx4jXcg87Y"
+Access-Control-Expose-Headers: active-cdn,x-served-by,Akamai-Request-BC
+active-cdn: Akamai
+Content-Encoding: br
+Content-Length: 64461
+Cache-Control: max-age=187
+Date: Mon, 12 Feb 2024 10:23:32 GMT
+Connection: keep-alive
+

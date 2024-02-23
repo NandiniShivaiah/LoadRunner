@@ -1,0 +1,1119 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-http-method-override",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-encode-response-if-executable",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-api-key",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-client-data",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-client",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "content-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/svg+xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff2"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/wasm"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.google.octet-stream-compressible"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/pkix-cert"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 34,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Feb-06-2024",
+    "RecordingDuration": 455687,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1707213255,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 2336527,
+    "TotalBytesSent": 68265,
+    "TotalRequests": 66,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "stripe.network",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "199.232.104.176",
+          "IncludeInScript": true,
+          "Name": "m.stripe.network",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 47,
+              "EventId": 389,
+              "HttpStatus": 200,
+              "Size": 14309,
+              "URL": "https://m.stripe.network/out-4.5.43.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 386,
+              "HttpStatus": 200,
+              "Size": 930,
+              "URL": "https://m.stripe.network/inner.html"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "stripe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.211.160.129",
+          "IncludeInScript": true,
+          "Name": "m.stripe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 567,
+              "HttpStatus": 200,
+              "Size": 156,
+              "URL": "https://m.stripe.com/6"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.161.246.53",
+          "IncludeInScript": true,
+          "Name": "js.stripe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 47,
+              "EventId": 360,
+              "HttpStatus": 200,
+              "Size": 315,
+              "URL": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 357,
+              "HttpStatus": 200,
+              "Size": 154,
+              "URL": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 104,
+              "HttpStatus": 200,
+              "Size": 166676,
+              "URL": "https://js.stripe.com/v3/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "servedby-buysellads.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "108.158.251.128",
+          "IncludeInScript": true,
+          "Name": "m.servedby-buysellads.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 102,
+              "HttpStatus": 200,
+              "Size": 7150,
+              "URL": "https://m.servedby-buysellads.com/monetization.custom.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "reqres.in",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.26.11.213",
+          "IncludeInScript": true,
+          "Name": "reqres.in",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 359,
+              "EventId": 1060,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://reqres.in/api/users/2"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 391,
+              "EventId": 1057,
+              "HttpStatus": 200,
+              "Size": 77,
+              "URL": "https://reqres.in/api/users/2"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 359,
+              "EventId": 1054,
+              "HttpStatus": 200,
+              "Size": 77,
+              "URL": "https://reqres.in/api/users/2"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 343,
+              "EventId": 1051,
+              "HttpStatus": 200,
+              "Size": 77,
+              "URL": "https://reqres.in/api/users/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 359,
+              "EventId": 1049,
+              "HttpStatus": 201,
+              "Size": 84,
+              "URL": "https://reqres.in/api/users"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 46,
+              "EventId": 1043,
+              "HttpStatus": 200,
+              "Size": 192,
+              "URL": "https://reqres.in/api/users/2"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 31,
+              "EventId": 876,
+              "HttpStatus": 200,
+              "Size": 366,
+              "URL": "https://reqres.in/api/users?page=2"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 2649,
+              "URL": "https://reqres.in/js/app.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 46,
+              "EventId": 108,
+              "HttpStatus": 200,
+              "Size": 655,
+              "URL": "https://reqres.in/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 406,
+              "EventId": 57,
+              "HttpStatus": 200,
+              "Size": 41104,
+              "URL": "https://reqres.in/img/swagger-logo-horizontal.jpeg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 359,
+              "EventId": 43,
+              "HttpStatus": 200,
+              "Size": 17409,
+              "URL": "https://reqres.in/img/logo.png"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 343,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 3888,
+              "URL": "https://reqres.in/css/app.css"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 375,
+              "EventId": 15,
+              "HttpStatus": 200,
+              "Size": 7134,
+              "URL": "https://reqres.in/"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "jsdelivr.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "199.232.105.229",
+          "IncludeInScript": true,
+          "Name": "cdn.jsdelivr.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 47,
+              "EventId": 344,
+              "HttpStatus": 200,
+              "Size": 987,
+              "URL": "https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/typescript.svg"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 31,
+              "EventId": 341,
+              "HttpStatus": 200,
+              "Size": 184,
+              "URL": "https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/npm.svg"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 31,
+              "EventId": 338,
+              "HttpStatus": 200,
+              "Size": 178,
+              "URL": "https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@master/icons/css.svg"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "j17lt.csb.app",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.18.39.169",
+          "IncludeInScript": true,
+          "Name": "j17lt.csb.app",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 390,
+              "EventId": 1029,
+              "HttpStatus": 200,
+              "Size": 3590,
+              "URL": "https://j17lt.csb.app/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googletagmanager.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.182.104",
+          "IncludeInScript": true,
+          "Name": "www.googletagmanager.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 884,
+              "HttpStatus": 200,
+              "Size": 70106,
+              "URL": "https://www.googletagmanager.com/gtag/js?id=UA-174008107-1&l=dataLayer&cx=c"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 149,
+              "HttpStatus": 200,
+              "Size": 53507,
+              "URL": "https://www.googletagmanager.com/gtm.js?id=GTM-KB622KF"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 70058,
+              "URL": "https://www.googletagmanager.com/gtag/js?id=UA-174008107-1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.76.35",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 265,
+              "EventId": 1021,
+              "HttpStatus": 200,
+              "Size": 822,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=13:G8SWS6nu1vB3XCwIiHKIlRV11kzuwpvt7euR5BnbHZw&cup2hreq=aa30b03fc1c8d0c0c59c3b23e7312324bdbd7ddecba48e0419bdf26ec94e14f3"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.202",
+          "IncludeInScript": true,
+          "Name": "safebrowsing.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 31,
+              "EventId": 1013,
+              "HttpStatus": 200,
+              "Size": 2359,
+              "URL": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$req=Ch4KDGdvb2dsZWNocm9tZRIOMTIxLjAuNjE2Ny4xNDAaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARCtlRUaAhgLfpV19SIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQvekNGgIYC67SNCEiBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEPXgDRoCGAuSqvEWIgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARC2rwcaAhgLYb6OcyIEIAEgAigBGigIARAIGhoKDQgBEAgYASIDMDAxMAQQ3DcaAhgLwLZjkiIEIAEgAigEGikIDxABGhsKDQgPEAYYASIDMDAxMAEQ_asCGgIYC2EuNgQiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgLYjna-CIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIxoCGAuXnkjLIgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARCxFRoCGAv0T3H1IgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARCKjQIaAhgLbUYmqiIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQ9K8OGgIYC0Lt3VQiBCABIAIoARooCBAQARoaCg0IEBAGGAEiAzAwMTABEIshGgIYC7kwzGAiBCABIAIoASICCAE=&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.196.74",
+          "IncludeInScript": true,
+          "Name": "fonts.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 78,
+              "EventId": 223,
+              "HttpStatus": 200,
+              "Size": 858,
+              "URL": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Source%20Code%20Pro:500"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.71.10",
+          "IncludeInScript": true,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 125,
+              "EventId": 1025,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xNDASGQnMIvvTQPBsKxIFDR7T91Ehl7BwzbjlnNsSIAmgY6Hpmu8n4hIFDSbzfSsSBQ1uyQ-wIbv56xk1YSbgEjUJLA_p-xQlRMYSBQ0G7bv_EgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNlJCS-iEUnxQJnJufkRI1CX886o9C1bpyEgUNBu27_xIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZSQkvohFJ8UCZybn5E=?alt=proto"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 141,
+              "EventId": 351,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xNDASJwkRnmFQ0MKKWRIFDZFhlU4SBQ2RYZVOEgUNlJCS-iFR-NIDgSdHXQ==?alt=proto"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.195.99",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 219,
+              "EventId": 1027,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=121"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.205.238",
+          "IncludeInScript": true,
+          "Name": "clients4.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/vnd.google.octet-stream-compressible",
+              "DownloadTime": 390,
+              "EventId": 522,
+              "HttpStatus": 200,
+              "Size": 255,
+              "URL": "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=57oxOBvCz9pMOcr26yQsbg%3D%3D"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "githubusercontent.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.199.110.133",
+          "IncludeInScript": true,
+          "Name": "raw.githubusercontent.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 32,
+              "EventId": 856,
+              "HttpStatus": 200,
+              "Size": 11098,
+              "URL": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/tsconfig.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 32,
+              "EventId": 852,
+              "HttpStatus": 200,
+              "Size": 8804,
+              "URL": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/jsconfig.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 31,
+              "EventId": 843,
+              "HttpStatus": 200,
+              "Size": 5581,
+              "URL": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 31,
+              "EventId": 839,
+              "HttpStatus": 200,
+              "Size": 2470,
+              "URL": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/prettierrc.json"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.199.111.133",
+          "IncludeInScript": true,
+          "Name": "avatars.githubusercontent.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 47,
+              "EventId": 306,
+              "HttpStatus": 200,
+              "Size": 19092,
+              "URL": "https://avatars.githubusercontent.com/u/868803?v=4"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "digicert.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "152.195.38.76",
+          "IncludeInScript": true,
+          "Name": "cacerts.digicert.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/pkix-cert",
+              "DownloadTime": 47,
+              "EventId": 50,
+              "HttpStatus": 200,
+              "Size": 1210,
+              "URL": "http://cacerts.digicert.com/DigiCertSHA2ExtendedValidationServerCA.crt"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "codesandbox.io",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.18.33.149",
+          "IncludeInScript": true,
+          "Name": "codesandbox.io",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 79,
+              "EventId": 665,
+              "HttpStatus": 200,
+              "Size": 144064,
+              "URL": "https://codesandbox.io/public/14/vs/language/css/cssWorker.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 650,
+              "HttpStatus": 200,
+              "Size": 663174,
+              "URL": "https://codesandbox.io/public/14/vs/language/typescript/tsWorker.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 644,
+              "HttpStatus": 200,
+              "Size": 51250,
+              "URL": "https://codesandbox.io/public/14/vs/language/html/htmlWorker.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 642,
+              "HttpStatus": 200,
+              "Size": 28854,
+              "URL": "https://codesandbox.io/public/14/vs/language/json/jsonWorker.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 634,
+              "HttpStatus": 200,
+              "Size": 1604,
+              "URL": "https://codesandbox.io/public/14/vs/basic-languages/css/css.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 632,
+              "HttpStatus": 200,
+              "Size": 7215,
+              "URL": "https://codesandbox.io/public/14/vs/language/css/cssMode.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 94,
+              "EventId": 594,
+              "HttpStatus": 200,
+              "Size": 40875,
+              "URL": "https://codesandbox.io/public/14/vs/base/worker/workerMain.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 583,
+              "HttpStatus": 200,
+              "Size": 2211,
+              "URL": "https://codesandbox.io/public/14/vs/basic-languages/typescript/typescript.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 580,
+              "HttpStatus": 200,
+              "Size": 10588,
+              "URL": "https://codesandbox.io/public/14/vs/language/typescript/tsMode.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 576,
+              "HttpStatus": 200,
+              "Size": 12734,
+              "URL": "https://codesandbox.io/public/14/vs/language/json/jsonMode.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 551,
+              "HttpStatus": 200,
+              "Size": 6672,
+              "URL": "https://codesandbox.io/public/14/vs/language/html/htmlMode.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/wasm",
+              "DownloadTime": 47,
+              "EventId": 549,
+              "HttpStatus": 200,
+              "Size": 147951,
+              "URL": "https://codesandbox.io/public/onigasm/2.2.1/onigasm.wasm"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 545,
+              "HttpStatus": 200,
+              "Size": 1441,
+              "URL": "https://codesandbox.io/public/14/vs/basic-languages/html/html.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 46,
+              "EventId": 531,
+              "HttpStatus": 200,
+              "Size": 42509,
+              "URL": "https://codesandbox.io/public/14/vs/editor/editor.main.css"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/plain",
+              "DownloadTime": 47,
+              "EventId": 528,
+              "HttpStatus": 200,
+              "Size": 1,
+              "URL": "https://codesandbox.io/cdn-cgi/challenge-platform/h/g/jsd/r/851290892918a90b"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 518,
+              "HttpStatus": 200,
+              "Size": 3358,
+              "URL": "https://codesandbox.io/cdn-cgi/challenge-platform/h/g/scripts/jsd/ea25f566/main.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 456,
+              "HttpStatus": 200,
+              "Size": 505342,
+              "URL": "https://codesandbox.io/public/14/vs/editor/editor.main.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 31,
+              "EventId": 452,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://codesandbox.io/cdn-cgi/challenge-platform/scripts/jsd/main.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 47,
+              "EventId": 394,
+              "HttpStatus": 200,
+              "Size": 99912,
+              "URL": "https://codesandbox.io/static/fonts/inter/Inter-SemiBold.woff2"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "cloudflareinsights.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.16.57.101",
+          "IncludeInScript": true,
+          "Name": "static.cloudflareinsights.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 93,
+              "EventId": 264,
+              "HttpStatus": 200,
+              "Size": 6854,
+              "URL": "https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "carbonads.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "68.183.230.54",
+          "IncludeInScript": true,
+          "Name": "srv.carbonads.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/jpeg",
+              "DownloadTime": 78,
+              "EventId": 303,
+              "HttpStatus": 200,
+              "Size": 34236,
+              "URL": "https://srv.carbonads.net/static/30242/cfae0bcc9eeb2652dd375b40461352efdb6057ba"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 62,
+              "EventId": 272,
+              "HttpStatus": 200,
+              "Size": 700,
+              "URL": "https://srv.carbonads.net/ads/CK7DT53I.json?segment=placement:reqresin"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "",
+              "DownloadTime": 78,
+              "EventId": 262,
+              "HttpStatus": 200,
+              "Size": 23,
+              "URL": "https://srv.carbonads.net/ads/CK7DT53I.json?segment=placement:reqresin"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 78,
+              "EventId": 260,
+              "HttpStatus": 200,
+              "Size": 497,
+              "URL": "https://srv.carbonads.net/ads/CE7D6K3E.json?segment=placement:reqresin"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "",
+              "DownloadTime": 62,
+              "EventId": 255,
+              "HttpStatus": 200,
+              "Size": 23,
+              "URL": "https://srv.carbonads.net/ads/CE7D6K3E.json?segment=placement:reqresin"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "carbonads.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "108.159.15.50",
+          "IncludeInScript": true,
+          "Name": "cdn.carbonads.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 140,
+              "HttpStatus": 200,
+              "Size": 9716,
+              "URL": "https://cdn.carbonads.com/carbon.js?serve=CE7D6K3E&placement=reqresin"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+server: nginx
+date: Mon, 12 Feb 2024 10:25:22 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+content-security-policy: script-src 'self' 'unsafe-eval' https://*.flixcart.com https://*.flixcart.net https://flipkart.d1.sc.omtrdc.net https://dpm.demdex.net https://tnc.phonepe.com https://captcha.px-cdn.net https://js-agent.newrelic.com https://bam.nr-data.net https://www.googletagmanager.com 'nonce-4184911763094377578'; style-src 'self' 'unsafe-inline' https://*.flixcart.com https://tnc.phonepe.com https://*.flixcart.net; img-src 'self' data: blob: https://*.flixcart.com https://*.flixcart.net https://images.ixigo.com https://flipkart.d1.sc.omtrdc.net https://www.facebook.com https://*.fkapi.net https://googleads.g.doubleclick.net https://www.google.com https://www.google.co.in https://www.googleadservices.com https://sp.analytics.yahoo.com https://bat.bing.com https://bat.r.msn.com https://pay.payzippy.com https://1.pay.payzippy.com https://tnc.phonepe.com; font-src 'self' data: https://*.flixcart.com https://tnc.phonepe.com https://*.flixcart.net; frame-src 'self' https://*.flipkart.com http://*.flipkart.com https://*.youtube.com https://youtube.com https://*.vimeo.com https://pay.payzippy.com https://1.pay.payzippy.com https://tnc.phonepe.com https://cdemux.appspot.com https://static-assets-web.flixcart.com/ 'nonce-4184911763094377578'; worker-src 'self' https://*.flipkart.com blob:; child-src 'self' https://*.flipkart.com 'nonce-4184911763094377578'; connect-src 'self' *; object-src 'none'; base-uri 'self'; media-src https://static-assets-web.flixcart.com/; report-uri https://csp-flkt.domdog.io/report-uri/flipkart.com/3/1-1
+content-security-policy-report-only: form-action 'self'; manifest-src 'self'; report-uri https://csp-flkt.domdog.io/report-uri/flipkart.com/3/2-1
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+Set-Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:25:22 GMT; Secure; SameSite=None
+Set-Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; Max-Age=31536000; Domain=flipkart.net; Path=/; Expires=Tue, 11 Feb 2025 10:25:22 GMT; Secure; SameSite=None
+Set-Cookie: SN=VI50872672C3D24024A4AB1387BB17D0C6.TOK0D0D1E7F5F08452CAA54811DEB6842AA.1707733522.LO; Max-Age=15778476; Domain=flipkart.com; Path=/; Expires=Tue, 13 Aug 2024 01:19:58 GMT; HttpOnly
+Set-Cookie: at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c; Max-Age=15778476; Domain=flipkart.com; Path=/; Expires=Tue, 13 Aug 2024 01:19:58 GMT; HttpOnly
+Set-Cookie: rt=null; Max-Age=15778476; Domain=flipkart.com; Path=/; Expires=Tue, 13 Aug 2024 01:19:58 GMT; HttpOnly
+Set-Cookie: K-ACTION=null; Max-Age=15778476; Domain=flipkart.com; Path=/; Expires=Tue, 13 Aug 2024 01:19:58 GMT; HttpOnly
+content-encoding: gzip
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+

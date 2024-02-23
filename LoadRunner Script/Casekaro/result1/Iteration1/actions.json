@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: com.amazon.csm.nexusclient.prod",
+                "infFile": "t2.inf",
+                "time": 1707307651397
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: command",
+                "infFile": "t4.inf",
+                "time": 1707307653018
+            }
+        ],
+        "transactions": []
+    }
+]

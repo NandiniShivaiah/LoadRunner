@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+access-control-allow-origin: *
+date: Mon, 12 Feb 2024 10:24:35 GMT
+expires: Sun, 11 Feb 2024 10:24:35 GMT
+last-modified: Tue, 13 Feb 2024 10:24:35 GMT
+pragma: no-cache
+p3p: CP="This is not a P3P policy"
+server: jag
+etag: 3667329713198628864-4617888510799769339
+vary: *
+content-type: image/gif;charset=utf-8
+content-length: 43
+cache-control: no-cache, no-store, max-age=0, no-transform, private
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+

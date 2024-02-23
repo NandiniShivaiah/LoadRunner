@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Wed, 07 Feb 2024 12:04:22 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+x-amzn-RequestId: 8855710a-42f8-4ff0-b3e1-2022f127a2c2
+

@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: https://www.google.com
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Playlog-Web
+Set-Cookie: NID=511=OHcdDQQVBA-LskMK_pbTRiBm0A64Od6hWYYgfLvNEVVyPT2UueQ3E5vLwyU-YFOmdnhxV6qC6RRm6hsjSEpJ7VXzoIlUzZpjAFcqQXzhXGkBs-Vn_YtFk7G5J9VvLjpqVkweL6rBIiIV-9co6fTmzaMPRkc5ZanQWAPlXr2QuS4ihQMbLdOHqev90pRRESq-; expires=Tue, 06-Aug-2024 10:30:52 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Type: text/plain; charset=UTF-8
+Content-Encoding: gzip
+Date: Mon, 05 Feb 2024 10:30:52 GMT
+Server: Playlog
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Expires: Mon, 05 Feb 2024 10:30:52 GMT
+Transfer-Encoding: chunked
+

@@ -1,0 +1,13 @@
+[t56]
+FileName1=t55.html
+URL1=https://2.rome.api.flipkart.com/api/4/data/collector/business
+Total=2
+SnapshotXmlFile=snapshot_56.xml
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+FileName2=t56_logo_lite-cbb357.png
+URL2=https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/logo_lite-cbb357.png
+ContentType=image/png
+[ProtocolInfo]
+ProtocolId=QTWeb

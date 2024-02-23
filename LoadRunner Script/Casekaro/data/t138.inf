@@ -1,0 +1,10 @@
+[t138]
+FileName1=t136.json
+URL1=https://unagi.amazon.com/1/events/com.amazon.csm.csa.prod
+Total=1
+SnapshotXmlFile=snapshot_138.xml
+RequestHeaderFile=t138_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t138_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,8 @@
+HTTP/1.1 204 No Content
+Date: Wed, 07 Feb 2024 12:05:07 GMT
+Content-Type: text/plain
+Connection: keep-alive
+x-amzn-RequestId: a32c9c10-8006-4ab3-9f74-2b1c0ecc0e2e
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+

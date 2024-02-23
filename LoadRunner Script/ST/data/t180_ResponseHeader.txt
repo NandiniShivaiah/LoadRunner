@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+access-control-allow-origin: https://www.flipkart.com
+access-control-allow-credentials: true
+date: Mon, 12 Feb 2024 10:26:34 GMT
+expires: Sun, 11 Feb 2024 10:26:34 GMT
+last-modified: Tue, 13 Feb 2024 10:26:34 GMT
+pragma: no-cache
+p3p: CP="This is not a P3P policy"
+server: jag
+etag: 3667329970067111936-4617927409097368368
+vary: *
+content-type: image/gif;charset=utf-8
+content-length: 43
+cache-control: no-cache, no-store, max-age=0, no-transform, private
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+

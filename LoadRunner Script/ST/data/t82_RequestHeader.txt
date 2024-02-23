@@ -1,0 +1,20 @@
+POST /api/1/fdp HTTP/1.1
+Host: 2.rome.api.flipkart.com
+Connection: keep-alive
+Content-Length: 425
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+X-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 FKUA/website/42/website/Desktop
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://www.flipkart.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.flipkart.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c; K-ACTION=null; vh=541; vw=1280; dpr=1; Network-Type=4g; pxcts=c618c70c-c990-11ee-919b-abf8d8cac8c0; _pxvid=c618bc5a-c990-11ee-919b-55690eef1cc4; AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg=1; gpv_pn=HomePage; gpv_pn_t=FLIPKART%3AHomePage; s_cc=true; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C19766%7CMCMID%7C91301039696235577497612905762942785164%7CMCAAMLH-1708337648%7C12%7CMCAAMB-1708337648%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1707740049s%7CNONE%7CMCAID%7CNONE; SN=VI50872672C3D24024A4AB1387BB17D0C6.TOK0D0D1E7F5F08452CAA54811DEB6842AA.1707733470.LO; rt=null; ud=3.SP0ce73iy-9UIHfyFoQdCcO3EU7CI6_czdf7l1XSkSGBSamvtwRGS9qZ8UUhubL7LOLHH5atdWoEd5-U4S86MCO6vUvmEzDqKdew5YlLy_J_OnXwtYovr04Yd7g5mmhXqlJyAQhMpzEksorq2_-TCg; vd=VI50872672C3D24024A4AB1387BB17D0C6-1707733469993-1.1707733469.1707733469.150325043; s_sq=%5B%5BB%5D%5D; _px3=d656ed425f8a9979c9a1cc2c5952aa3b3333af29de475e56671e0737a3964717:22pK5kCNn4MmarEbvkisJ3v1GNI44k/miFWSrKcL0peSwPgeP3Yw7G9y/AtWc44woh9IuDHGRhOasLVbCet3qg==:1000:IJAw0EXLlla1ctfLfYPbdhJQ7ejfrI2yIFo6I1+R53LdYcY8vkSZ527r0ctfKwovfDTxYn1tmJmC41wd7Fg8UH80at7xN//1UUZtpdnYwTlK3kvAB6V0IYCmIfKEVRJovHGd0sVEWqC3NMrBG49HfBsOD8cGuaT2ymksefmeK+JFgxkp9jKQH4xZDokBvaLRWK/aeGjToN/fFAM5aTNWVmot8/IgKRvPUVhhA5F3uto=
+

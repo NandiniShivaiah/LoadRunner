@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\Casekaro
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\casekaro\\logfile.log
+d:\loadrunner script\casekaro\\combined_Casekaro.c
+d:\loadrunner script\casekaro\\pre_cci.c

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Tue, 06 Feb 2024 10:04:06 GMT
+Content-Type: application/javascript; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-content-type-options: nosniff
+vary: accept-encoding
+cache-control: max-age=14400, public
+Server: cloudflare
+CF-RAY: 8512912a1d157ed9-MAA
+Content-Encoding: br
+alt-svc: h3=":443"; ma=86400
+

@@ -1,0 +1,15 @@
+GET /b/ss/flipkart-prd/1/JS-1.5.1/s31656554710188?AQB=1&ndh=1&pf=1&t=12%2F1%2F2024%2015%3A45%3A7%201%20-330&mid=91301039696235577497612905762942785164&aamlh=12&ce=UTF-8&ns=flipkart&pageName=www.flipkart.com%3Aaccount%3Alogin&g=https%3A%2F%2Fwww.flipkart.com%2Faccount%2Flogin%3Fret%3D%2F&r=https%3A%2F%2Fwww.flipkart.com%2F&cc=INR&pe=lnk_o&pev2=Login%20Displayed&pid=HomePage&pidt=1&oid=https%3A%2F%2Fwww.flipkart.com%2Faccount%2Flogin%3Fret%3D%2F&ot=A&events=event12&c21=_Header%20Account%20Login%3ADisplayed&c54=8&s=1280x720&c=24&j=1.6&v=N&k=Y&bw=1280&bh=593&AQE=1 HTTP/1.1
+Host: flipkart.d1.sc.omtrdc.net
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.flipkart.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+

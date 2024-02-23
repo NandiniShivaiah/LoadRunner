@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+server: nginx
+date: Mon, 12 Feb 2024 10:24:56 GMT
+content-type: text/html; charset=utf-8
+transfer-encoding: chunked
+Set-Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:24:56 GMT; Secure; SameSite=None
+Set-Cookie: SN=VI50872672C3D24024A4AB1387BB17D0C6.TOK0D0D1E7F5F08452CAA54811DEB6842AA.1707733470.LO; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:24:56 GMT; HttpOnly
+Set-Cookie: at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:24:56 GMT; HttpOnly
+Set-Cookie: rt=null; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:24:56 GMT; HttpOnly
+Set-Cookie: K-ACTION=null; Max-Age=31536000; Domain=flipkart.com; Path=/; Expires=Tue, 11 Feb 2025 10:24:56 GMT; HttpOnly
+content-security-policy: default-src 'self' https://*.flipkart.com https://*.flixcart.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.flixcart.com https://js-agent.newrelic.com https://bam.nr-data.net https://dpm.demdex.net https://flipkart.d1.sc.omtrdc.net https://www.youtube.com https://s.ytimg.com http://dpm.demdex.net https://smartplugin.youbora.com https://a-fds.youborafds01.com https://client.px-cloud.net https://captcha.px-cdn.net https://www.googletagmanager.com blob: 'nonce-3847063029'; style-src 'self' 'unsafe-inline' https://*.flixcart.com; img-src 'self' * data: blob:; media-src 'self' https://*.flixcart.com data: blob: *; font-src 'self' https://*.flixcart.com data:; frame-src 'self' https://*.flipkart.com http://*.flipkart.com https://www.youtube.com https://cdemux.appspot.com blob: fknative://* https://*.flixcart.com https://*.surepass.io; worker-src 'self' https://*.flipkart.com blob:; connect-src 'self' *; base-uri 'self'
+x-request-id: clsisfj3n0r280wbozvdumgnb-BR
+cache-control: private, no-cache, no-store, must-revalidate, max-age=0
+expires: Thu, 01 Jan 1970 00:00:00 GMT
+pragma: no-cache
+last-modified: Mon, 19 Feb 2024 04:32:10 GMT
+content-encoding: gzip
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+

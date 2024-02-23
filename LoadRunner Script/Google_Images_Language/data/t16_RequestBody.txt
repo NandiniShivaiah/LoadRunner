@@ -1,0 +1,6 @@
+"[{\"age\":60015,\"body\":{\"elapsed_time\":245,\"method\":\"GET\",\"phase\":\"application\",\""
+"protocol\":\"http/1.1\",\"referrer\":\"https://katalon-demo-cura.herokuapp.com/\",\"sampling_f"
+"raction\":0.05,\"server_ip\":\"18.211.231.38\",\"status_code\":404,\"type\":\"http.error\"},\""
+"type\":\"network-error\",\"url\":\"https://katalon-demo-cura.herokuapp.com/favicon.ico\",\"use"
+"r_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) C"
+"hrome/121.0.0.0 Safari/537.36\"}]"

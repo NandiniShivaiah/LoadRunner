@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\practice\practice
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\practice\practice\\logfile.log
+d:\loadrunner script\practice\practice\\combined_practice.c
+d:\loadrunner script\practice\practice\\pre_cci.c

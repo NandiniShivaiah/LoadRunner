@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Date: Mon, 12 Feb 2024 10:23:33 GMT
+Content-Type: application/javascript;charset=utf-8
+Content-Length: 243
+Connection: keep-alive
+X-TID: DMDd63i6SF0=
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cache-Control: no-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 UTC
+P3P: policyref="/w3c/p3p.xml", CP="NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS PUR COM NAV INT"
+DCS: dcs-prod-ind1-2-v053-06eecdaa9.edge-ind1.demdex.com 2 ms
+set-cookie: demdex=02188119478470765882768484315081149401; Max-Age=15552000; Expires=Sat, 10 Aug 2024 10:23:33 GMT; Path=/; Domain=.demdex.net; Secure; SameSite=None
+content-encoding: gzip
+

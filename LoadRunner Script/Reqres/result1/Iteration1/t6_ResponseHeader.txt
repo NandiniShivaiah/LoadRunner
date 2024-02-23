@@ -1,0 +1,10 @@
+HTTP/2.0 200
+Status: 200
+date: Tue, 06 Feb 2024 10:36:00 GMT
+content-type: text/plain; charset=UTF-8
+set-cookie: cf_clearance=KLmp1IuKdIPXeGj8oUpBz8hDd8B3xzxseae3tvCq0o4-1707215760-1-AXQorFGVOgdPm3gxNuqLMuE0/leEeoK1I1F9PvCHTmJbINAlujLbLn//ZHF3LYRC2Jrp8n/sc6qwFIddWyhqJ10=; path=/; expires=Wed, 05-Feb-25 10:36:00 GMT; domain=.codesandbox.io; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 8512bfe68aec7f81-MAA
+content-encoding: br
+alt-svc: h3=":443"; ma=86400
+

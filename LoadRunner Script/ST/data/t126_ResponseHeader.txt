@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: text/javascript
+Last-Modified: Tue, 06 Feb 2024 16:56:19 GMT
+ETag: W/"db1389bcf8d01c564b47bb6fd851c58f"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: viewport-width, dpr
+Content-Encoding: br
+Content-Length: 5009
+Cache-Control: public, max-age=31068181
+Expires: Thu, 06 Feb 2025 00:27:59 GMT
+Date: Mon, 12 Feb 2024 10:24:58 GMT
+Connection: keep-alive
+

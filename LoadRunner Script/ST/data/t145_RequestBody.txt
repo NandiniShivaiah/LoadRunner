@@ -1,0 +1,3 @@
+"{\"query\":\"laptop\",\"contextUri\":\"/\",\"marketPlaceId\":\"FLIPKART\",\"types\":[\"QUERY\""
+",\"QUERY_STORE\",\"PRODUCT\",\"RICH\",\"PARTITION\"],\"rows\":10,\"zeroPrefixHistory\":false,\""
+"userTimeStamp\":1707732956079,\"searchBrowseHistory\":[]}"

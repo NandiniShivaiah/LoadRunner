@@ -1,0 +1,10 @@
+[hosts]
+clientservices.googleapis.com=
+clients4.google.com=
+update.googleapis.com=
+safebrowsing.googleapis.com=
+content-autofill.googleapis.com=
+katalon-demo-cura.herokuapp.com=
+fonts.googleapis.com=
+fonts.gstatic.com=
+nel.heroku.com=

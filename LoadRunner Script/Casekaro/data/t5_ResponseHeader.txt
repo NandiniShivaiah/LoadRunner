@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: Server
+Content-Type: application/x-javascript
+X-Amz-IR-Id: bcbfa8ab-1ffd-4150-965c-0131d460a338
+Last-Modified: Tue, 22 Nov 2022 19:56:01 GMT
+Surrogate-key: x-cache-085 /images/I/11y85pohsPL
+X-Nginx-Cache-Status: HIT
+Content-Encoding: br
+Content-Length: 8772
+Peer-Cache: Hit
+Cache-Control: public, max-age=630678628
+Expires: Tue, 02 Feb 2044 00:34:34 GMT
+Date: Wed, 07 Feb 2024 12:04:06 GMT
+Connection: keep-alive
+X-Cache: Hit from akamai
+Akamai-GRN: 0.0610620e.1707307446.1c2705ab
+Server-Timing: provider;desc="ak"
+Timing-Allow-Origin: https://www.amazon.com
+Akamai-Cache-Status: Hit from child
+Access-Control-Allow-Origin: *
+

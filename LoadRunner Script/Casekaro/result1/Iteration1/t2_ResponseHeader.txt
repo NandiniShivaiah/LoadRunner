@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Server
+Date: Wed, 07 Feb 2024 12:07:31 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: M95T22MFPMC4P8QRYZ75
+x-amzn-RequestId: 408bb54e-cd60-43c3-92f9-b00fcf8d9b87
+Content-Encoding: gzip
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+

@@ -1,0 +1,13 @@
+[t75]
+FileName1=t70.htm
+URL1=https://www.flipkart.com/account/login?ret=/
+Total=2
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+FileName2=t75_js.html
+URL2=https://www.googletagmanager.com/gtag/js?id=AW-594691041
+ContentType=application/javascript
+[ProtocolInfo]
+ProtocolId=QTWeb

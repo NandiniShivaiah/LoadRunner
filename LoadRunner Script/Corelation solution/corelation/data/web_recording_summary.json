@@ -1,0 +1,284 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 4,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Feb-20-2024",
+    "RecordingDuration": 71734,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1708419347,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 24412,
+    "TotalBytesSent": 20950,
+    "TotalRequests": 14,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "herokuapp.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "54.83.6.65",
+          "IncludeInScript": true,
+          "Name": "thinking-tester-contact-list.herokuapp.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 294,
+              "HttpStatus": 200,
+              "Size": 2,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/contacts"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 250,
+              "EventId": 292,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterIcon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 453,
+              "EventId": 288,
+              "HttpStatus": 200,
+              "Size": 3860,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/js/contactList.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 235,
+              "EventId": 286,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterLogo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 890,
+              "EventId": 284,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/css/styles.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 234,
+              "EventId": 278,
+              "HttpStatus": 200,
+              "Size": 849,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/contactList"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 953,
+              "EventId": 276,
+              "HttpStatus": 200,
+              "Size": 271,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/users/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 250,
+              "EventId": 234,
+              "HttpStatus": 200,
+              "Size": 1173,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterIcon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 250,
+              "EventId": 228,
+              "HttpStatus": 200,
+              "Size": 907,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/js/login.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 250,
+              "EventId": 226,
+              "HttpStatus": 200,
+              "Size": 12718,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/img/thinkingTesterLogo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 250,
+              "EventId": 221,
+              "HttpStatus": 200,
+              "Size": 913,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/css/styles.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 250,
+              "EventId": 217,
+              "HttpStatus": 200,
+              "Size": 1303,
+              "URL": "https://thinking-tester-contact-list.herokuapp.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.131",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 297,
+              "EventId": 310,
+              "HttpStatus": 200,
+              "Size": 171,
+              "URL": "http://update.googleapis.com/service/update2/json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 281,
+              "EventId": 302,
+              "HttpStatus": 200,
+              "Size": 2245,
+              "URL": "http://update.googleapis.com/service/update2/json?cup2key=13:wo_TkkBXm0xv8oDFxF8ce9-CLQOoVpikcWt5ISTGVuo&cup2hreq=02a6c6f466e498d7d523fa840b3542e1de87e09370126a2df3f877f75d055644"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

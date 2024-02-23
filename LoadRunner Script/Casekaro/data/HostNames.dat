@@ -1,0 +1,12 @@
+[hosts]
+clientservices.googleapis.com=
+www.amazon.com=
+images-na.ssl-images-amazon.com=
+fls-na.amazon.com=
+unagi-na.amazon.com=
+clients4.google.com=
+unagi.amazon.com=
+s.amazon-adsystem.com=
+static.siege-amazon.com=
+update.googleapis.com=
+m.media-amazon.com=

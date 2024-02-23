@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1707732287&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=q3xtapLRa%2BlEU0Rjmp1BePYVSJWhBeRqLII7O%2FDtcik%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1707732287&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=q3xtapLRa%2BlEU0Rjmp1BePYVSJWhBeRqLII7O%2FDtcik%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+Date: Mon, 12 Feb 2024 10:04:47 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: PHPSESSID=gboh64c0rvhsr5j4a6ajv57elm2fghjd; path=/
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Via: 1.1 vegur
+

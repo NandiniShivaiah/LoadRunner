@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Server: Server
+Content-Type: text/html
+x-amz-rid: 30FD78EY2PQ3XYRYA559
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+Vary: Content-Type,Accept-Encoding,User-Agent
+Last-Modified: Thu, 01 Feb 2024 17:38:04 GMT
+ETag: "47-610557526b700-gzip"
+Accept-Ranges: bytes
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Date: Wed, 07 Feb 2024 12:04:20 GMT
+Content-Length: 67
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=93600
+X-Amzn-Cdn-Id: ak-0.5d0a2c17.1707307460.137d10c6
+X-Cache: NotCacheable from child
+

@@ -1,0 +1,13 @@
+[t4]
+FileName1=t2.htm
+URL1=https://www.flipkart.com/
+Total=2
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+FileName2=t4_aa1b2bdcf519b468.webp
+URL2=https://rukminim2.flixcart.com/fk-p-flap/1600/270/image/aa1b2bdcf519b468.jpg?q=20
+ContentType=image/webp
+[ProtocolInfo]
+ProtocolId=QTWeb

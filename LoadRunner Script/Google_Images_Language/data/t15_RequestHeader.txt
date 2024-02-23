@@ -1,0 +1,10 @@
+OPTIONS /reports?ts=1707204103&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=Jo%2FJbPaC73Vdvfr9%2F3geTpZlsgKYWzITndl%2BDaGfLI0%3D HTTP/1.1
+Host: nel.heroku.com
+Connection: keep-alive
+Origin: https://katalon-demo-cura.herokuapp.com
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+

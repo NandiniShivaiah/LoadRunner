@@ -1,0 +1,16 @@
+GET /1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5B34J2N8S2V9PGCGR72F$uedata=s:%2Fap%2Fuedata%3Fld%26v%3D0.261013.0%26id%3D5B34J2N8S2V9PGCGR72F%26ctb%3D1%26sc0%3Dsiege%3Acse%3AencryptString%3AAuthPortalSigninPasswordNA%26bb0%3D11833%26cf0%3D11859%26pc0%3D11859%26ld0%3D11859%26t0%3D1707307503024%26pty%3DAuthenticationPortal%26spty%3DSignInPwdCollect%26pti%3Dundefined%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1:11859 HTTP/1.1
+Host: fls-na.amazon.com
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: session-id=133-6658273-5713951; i18n-prefs=USD; sp-cdn="L5Z9:IN"; skin=noskin; ubid-main=135-4859291-5813941; session-id-time=2338027490l; session-token=QvzIEZ/l4T7T9EfO1Axgh+1elg14cVVRf8hJct6WeF6KKeP0pQUp2dpGOCF46XDfRtpoUhFg8bjv54efwBL3m+Nmk3zpzWYo40iuhJtVO7JXz5+93YpIf+kS5a2eFJpl4Rwh0aaKAa+KIC9for5bZZCchXeQIpINPTxVWq8/ip0O5HFJuNW/lqftsXwhL1NZVQ4OHoex/Odnfa4kUxHg96bwcTgRXa911cN+pGo2LxTs6QAq1wFAOwPRNzZgwsQbKyRYsqUKVUhdhIdqV5Zr03lra/tdM7kyocWt4qLaD8ZUomSHtAXmxwU6AKfrzKO2/iGIkAKbUUNJ9epK4dqD+Z62El4JJMFB
+

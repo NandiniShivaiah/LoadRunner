@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\UI Text
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\ui text\\logfile.log
+d:\loadrunner script\ui text\\combined_UI Text.c
+d:\loadrunner script\ui text\\pre_cci.c

@@ -1,0 +1,7 @@
+"{\"rid\":\"5B34J2N8S2V9PGCGR72F\",\"sid\":\"133-6658273-5713951\",\"mid\":\"ATVPDKIKX0DER\",\""
+"sn\":\"www.amazon.com\",\"reqs\":[{\"csmcount\":{\"counter\":\"postbackImageSize\",\"value\":2"
+"49,\"t\":8003}},{\"csmcount\":{\"counter\":\"postbackImageSize\",\"value\":214,\"t\":8017}},{\""
+"cel\":{\"k\":\"res_mcm\",\"t\":11597,\"m\":5}},{\"csmcount\":{\"counter\":\"SignInSubmitOnDesk"
+"top\",\"value\":1,\"t\":11841}},{\"csm\":{\"k\":\"chk\",\"f\":2,\"l\":{\"csmcount\":28,\"csm\""
+":2,\"cel\":1},\"s\":\"full\"}},{\"csmcount\":{\"counter\":\"foresterPayloadSize\",\"t\":0,\"va"
+"lue\":489}}]}"

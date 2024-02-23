@@ -1,0 +1,10 @@
+[t18]
+FileName1=t12.htm
+URL1=https://www.amazon.com/rd/uedata?ld&v=0.277997.0&id=5AFSK1C7VNHSD7KRB97Y&sw=1280&sh=720&vw=1263&vh=541&m=1&sc=5AFSK1C7VNHSD7KRB97Y&ue=3&bb=306&ns=328&be=593&fp=424&fcp=424&pc=18224&tc=-4198&na_=-4198&ul_=-1707307441878&_ul=-1707307441878&rd_=-1707307441878&_rd=-1707307441878&fe_=-4063&lk_=-2943&_lk=-2943&co_=-2943&_co=-1388&sc_=-2836&rq_=-1386&rs_=-41&_rs=211&dl_=-7&di_=927&de_=928&_de=928&_dc=18224&ld_=18224&_ld=-1707307441878&ntd=0&ty=0&rc=0&hob=2&hoe=4&ld=18226&t=1707307460104&ctb=1&rt=__ld:102-6-3-90-4-0-1&ec=51&ecf=0&csmtags=aui|aui:aui_build_date:3.24.1-2024-02-05|mutObsYes|navbar|FWCIMEnabled|fls-na-amazon-com|perfYes|ak_cdn_fr|ak_cdn_mp|aui:sw:page_proxy:no_ctrl|adblk_yes&viz=visible:3&pty=Gateway&spty=desktop&pti=desktop&tid=5AFSK1C7VNHSD7KRB97Y&aftb=1&lob=1
+Total=1
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

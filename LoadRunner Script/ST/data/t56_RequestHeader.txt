@@ -1,0 +1,15 @@
+GET /id?d_visid_ver=1.5.4&callback=s_c_il%5B0%5D._setAnalyticsFields&mcorgid=17EB401053DAF4840A490D4C%40AdobeOrg&mid=91301039696235577497612905762942785164 HTTP/1.1
+Host: flipkart.d1.sc.omtrdc.net
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://www.flipkart.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+

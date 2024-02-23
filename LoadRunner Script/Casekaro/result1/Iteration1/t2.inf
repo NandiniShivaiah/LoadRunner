@@ -1,0 +1,24 @@
+[t2]
+FileName2=t2_9_11y85pohsPL.js
+RawStepEndTime=1707307651375
+FileName5=t2_4_01rGP6HIADL.js
+FileName4=t2_7_41W974vG8QL.js
+FileName6=t2_3_31YI0nnbQAL.js
+RequestBodyFile=t2_RequestBody.txt
+RawStepName=com.amazon.csm.nexusclient.prod
+ContentType=application/json
+URL1=https://unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod
+URL2=https://images-na.ssl-images-amazon.com/images/I/11y85pohsPL._RC|41JZmnaIUdL.js_.js?AUIClients/AmazonGatewayAuiAssets
+URL3=https://images-na.ssl-images-amazon.com/images/I/41-WpIOxHtL._RC|71z85BIz8wL.css,41hk4fqGa9L.css,11KAm1wkQdL.css,31-P1-9TebL.css,31YZpDCYJPL.css,21pkK7OQMnL.css,41yQj5y2obL.css,110Nj+wUGYL.css,31OvHRW+XiL.css,01R53xsjpjL.css,11EKggV-DlL.css,41yKpEQVJkL.css,01YWmXMYw8L.css,11qTzxZ0Y5L.css_.css?AUIClients/NavDesktopUberAsset&TiA+2wh/
+ResponseHeaderFile=t2_ResponseHeader.txt
+URL4=https://images-na.ssl-images-amazon.com/images/I/41W974vG8QL._RC|71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11lEMI5MhIL.js,313ANWt5xVL.js,01LEzWzrPZL.js,01AqeWA7PKL.js,71-pKfDl0GL.js,41k8iTU2aPL.js_.js?AUIClients/NavDesktopUberAsset&XeG1J2E3
+URL5=https://images-na.ssl-images-amazon.com/images/I/01rGP6HIADL.js?AUIClients/GenericObservableJS
+URL6=https://images-na.ssl-images-amazon.com/images/I/31YI0nnbQAL.js?AUIClients/AmazonGatewayHerotatorJS
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1707307650355
+Total=6
+StepName=Custom Request: com.amazon.csm.nexusclient.prod
+FileName1=t2.json
+FileName3=t2_6_41-WpIOxHtL.css

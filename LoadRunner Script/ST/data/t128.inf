@@ -1,0 +1,13 @@
+[t128]
+FileName1=t128.gif
+URL1=https://flipkart.d1.sc.omtrdc.net/b/ss/flipkart-prd/1/JS-1.5.1/s31246587499325
+Total=1
+RequestHeaderFile=t128_RequestHeader.txt
+RequestBodyFile=t128_RequestBody.txt
+ResponseHeaderFile=t128_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_128.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

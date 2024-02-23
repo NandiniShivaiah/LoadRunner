@@ -1,0 +1,13 @@
+[t180]
+FileName1=t180.gif
+URL1=https://flipkart.d1.sc.omtrdc.net/b/ss/flipkart-prd/1/JS-1.5.1/s35334020395228
+Total=1
+RequestHeaderFile=t180_RequestHeader.txt
+RequestBodyFile=t180_RequestBody.txt
+ResponseHeaderFile=t180_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_180.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

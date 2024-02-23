@@ -1,0 +1,13 @@
+[t3]
+FileName1=t3.html
+URL1=https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=57oxOBvCz9pMOcr26yQsbg%3D%3D
+Total=2
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=t3_RequestBody.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+ContentType=application/vnd.google.octet-stream-compressible
+SnapshotXmlFile=snapshot_3.xml
+FileName2=t3_AF1QipORjSliv1rRditQBc53zc97FH9h9Gm-56kJvMQH=w92-h92-n-k-no.jpg
+URL2=https://lh5.googleusercontent.com/p/AF1QipORjSliv1rRditQBc53zc97FH9h9Gm-56kJvMQH=w92-h92-n-k-no
+[ProtocolInfo]
+ProtocolId=QTWeb

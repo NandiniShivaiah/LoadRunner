@@ -1,0 +1,13 @@
+[t100]
+FileName1=t91.json
+URL1=https://2.rome.api.flipkart.com/api/4/data/collector/business
+Total=2
+SnapshotXmlFile=snapshot_100.xml
+RequestHeaderFile=t100_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t100_ResponseHeader.txt
+FileName2=t100_1f03e99f6dc9f7a6.webp
+URL2=https://rukminim1.flixcart.com/fk-p-flap/530/810/image/1f03e99f6dc9f7a6.jpg?q=20
+ContentType=image/webp
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,39 @@
+Virtual User Script started at: 07-02-2024 14:48:24
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2023.0.0 for Windows 10; build 506 (Mar 08 2023 13:11:40)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\LoadRunner Script\Google_Solution\Google_Script\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_url("rs=AA2YrTungzasoekTaLKrPFUaQFpakqDmnA") started  	[MsgId: MMSG-26355]
+Action.c(6): web_url("rs=AA2YrTungzasoekTaLKrPFUaQFpakqDmnA") was successful, 640 body bytes, 848 header bytes  	[MsgId: MMSG-26386]
+Action.c(14): web_url("seed") started  	[MsgId: MMSG-26355]
+Action.c(14): HTML parsing not performed for Content-Type "application/octet-stream" ("ParseHtmlContentType" Runtime Setting is "TEXT"). URL="https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=121"  	[MsgId: MMSG-26547]
+Action.c(14): Downloading resource "https://www.gstatic.com/og/_/js/k=og.qtm.en_US.ZEEp2pdSHOQ.2019.O/rt=j/m=qabr,q_d,qcwid,qapid,qald,q_dg/exm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/rs=AA2YrTvRRKYp7I5vTn-AtFvme6Qlo6hq9Q" (specified by argument number 8)  	[MsgId: MMSG-26576]
+Action.c(14): web_url("seed") was successful, 446804 body bytes, 1235 header bytes  	[MsgId: MMSG-26386]
+Action.c(24): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(24): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(26): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(30): web_custom_request("log") started  	[MsgId: MMSG-26355]
+Action.c(30): Downloading resource "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT375qtPUYZr0WqxFfh87bLvb-B0jFIiul_rGBFJyMb2eP8yx_JZy5Z_6c&s=10" (specified by argument number 12)  	[MsgId: MMSG-26576]
+Action.c(30): Downloading resource "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4Zvuqg17L8xiVfbOLSa2Ljl60znIOJHhMXuDqX70yrRBHrTowpAOX2w&s=10" (specified by argument number 15)  	[MsgId: MMSG-26576]
+Action.c(30): Downloading resource "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVfrZ_Wi3Wlz-FheZb7H1rvV_Phb3RILFi9rUYWFc&s=10" (specified by argument number 18)  	[MsgId: MMSG-26576]
+Action.c(30): Downloading resource "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdujh2UdhAHzLTIQgeAH4ncG4o6eMqB5SGIoiy5VMH8Xn_5eCd9Euze8&s=10" (specified by argument number 21)  	[MsgId: MMSG-26576]
+Action.c(30): Downloading resource "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bCs10a0XxK1ikEHN655AT_iHkXWJhAsmMUB_IEk&s=10" (specified by argument number 24)  	[MsgId: MMSG-26576]
+Action.c(30): Downloading resource "https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2" (specified by argument number 27)  	[MsgId: MMSG-26576]
+Action.c(30): web_custom_request("log") was successful, 30751 body bytes, 5775 header bytes  	[MsgId: MMSG-26386]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

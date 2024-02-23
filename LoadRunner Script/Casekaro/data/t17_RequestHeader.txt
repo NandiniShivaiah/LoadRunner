@@ -1,0 +1,16 @@
+GET /1/batch/1/OP/ATVPDKIKX0DER:133-6658273-5713951:5AFSK1C7VNHSD7KRB97Y$uedata=s:%2Frd%2Fuedata%3Fld%26v%3D0.277997.0%26id%3D5AFSK1C7VNHSD7KRB97Y%26sw%3D1280%26sh%3D720%26vw%3D1263%26vh%3D541%26m%3D1%26sc%3D5AFSK1C7VNHSD7KRB97Y%26ue%3D3%26bb%3D306%26ns%3D328%26be%3D593%26fp%3D424%26fcp%3D424%26pc%3D18224%26tc%3D-4198%26na_%3D-4198%26ul_%3D-1707307441878%26_ul%3D-1707307441878%26rd_%3D-1707307441878%26_rd%3D-1707307441878%26fe_%3D-4063%26lk_%3D-2943%26_lk%3D-2943%26co_%3D-2943%26_co%3D-1388%26sc_%3D-2836%26rq_%3D-1386%26rs_%3D-41%26_rs%3D211%26dl_%3D-7%26di_%3D927%26de_%3D928%26_de%3D928%26_dc%3D18224%26ld_%3D18224%26_ld%3D-1707307441878%26ntd%3D0%26ty%3D0%26rc%3D0%26hob%3D2%26hoe%3D4%26ld%3D18226%26t%3D1707307460104%26ctb%3D1%26rt%3D__ld%3A102-6-3-90-4-0-1%26ec%3D51%26ecf%3D0%26csmtags%3Daui%7Caui%3Aaui_build_date%3A3.24.1-2024-02-05%7CmutObsYes%7Cnavbar%7CFWCIMEnabled%7Cfls-na-amazon-com%7CperfYes%7Cak_cdn_fr%7Cak_cdn_mp%7Caui%3Asw%3Apage_proxy%3Ano_ctrl%7Cadblk_yes%26viz%3Dvisible%3A3%26pty%3DGateway%26spty%3Ddesktop%26pti%3Ddesktop%26tid%3D5AFSK1C7VNHSD7KRB97Y%26aftb%3D1%26lob%3D1:18231 HTTP/1.1
+Host: fls-na.amazon.com
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: session-id=133-6658273-5713951; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn="L5Z9:IN"; skin=noskin
+

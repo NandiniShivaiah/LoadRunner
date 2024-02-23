@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\SuperTails\Case Study
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\supertails\case study\\logfile.log
+d:\loadrunner script\supertails\case study\\combined_Case Study.c
+d:\loadrunner script\supertails\case study\\pre_cci.c

@@ -1,0 +1,20 @@
+POST /api/4/data/collector/business HTTP/1.1
+Host: 2.rome.api.flipkart.com
+Connection: keep-alive
+Content-Length: 3653
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+X-user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 FKUA/website/42/website/Desktop
+Content-Type: application/json
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://www.flipkart.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.flipkart.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: T=clsisdo860r7b1ibfvbqfmsxm-BR1707733409766; SN=2.VIFC26FFB5732442C7817017643F29ABE7.SI1DBAF57E13514E4B82D0F1357768DF9A.VS4ABA5F6FA5024413B7108E7EC171E403.1707733409; at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c; K-ACTION=null; ud=9.s6h1kDq2uZzvJmCRXlyNkglOl9LGdOurJCFsaS7eNV6hyY7CkzNIBI2nnPtPkufV6Xnas-ZTkPiRe68kLw4GkQ; vh=541; vw=1280; dpr=1; Network-Type=4g; pxcts=c618c70c-c990-11ee-919b-abf8d8cac8c0; _pxvid=c618bc5a-c990-11ee-919b-55690eef1cc4; AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg=1; gpv_pn=HomePage; gpv_pn_t=FLIPKART%3AHomePage; s_cc=true; AMCV_17EB401053DAF4840A490D4C%40AdobeOrg=-227196251%7CMCIDTS%7C19766%7CMCMID%7C91301039696235577497612905762942785164%7CMCAAMLH-1708337648%7C12%7CMCAAMB-1708337648%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1707740049s%7CNONE%7CMCAID%7CNONE; _px3=25f174ed17fadcba9428ad84cfa57d6e8ba6ad9a3c13b402d9a63e341c95e8c8:/Kr9QNqwx7kMy2tbv7cjTrZwhdxZWBTOngxjJTDP26iHHC/WW5frSRuLDW38IPixvIW6cBzJKf6m0U+Wv8rdXA==:1000:W27DixC1l7wr8XISFMjSl7VLf7/HqfMnA8NGtMIP4vUKxj2SRILRsiEvPbask8DmwtmOahj+PGEAosUC4rDJcnvMIN9084hUPUVPV7vVQ3LNHfnGUxCFHO1xyqfJT//H9+2n8h5yzCxFF94N6foQNSGkvADHy9GBQ0MymAbGgF33cQ40oiys6OaYzynexSYNcmahWNspynt8Q3bjFDgmfIBUdDC888WdiL4v2AcmHqk=
+

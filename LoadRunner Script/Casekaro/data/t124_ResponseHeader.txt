@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: Server
+Date: Wed, 07 Feb 2024 12:04:57 GMT
+Content-Type: application/json
+Content-Length: 22
+Connection: keep-alive
+x-amz-rid: KVJSEKW0VVSYKJVK8G11
+x-amzn-RequestId: 13b3ef17-4627-45ec-a3e9-a51994865d72
+Access-Control-Allow-Origin: https://www.amazon.com
+Content-Encoding: gzip
+Access-Control-Expose-Headers: x-amzn-RequestId,x-amzn-ErrorType,x-amzn-ErrorMessage,Date
+Access-Control-Allow-Credentials: true
+Vary: Origin,Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+

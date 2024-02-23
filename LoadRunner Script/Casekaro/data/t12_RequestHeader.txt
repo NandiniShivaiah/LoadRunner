@@ -1,0 +1,26 @@
+GET /rd/uedata?ld&v=0.277997.0&id=5AFSK1C7VNHSD7KRB97Y&sw=1280&sh=720&vw=1263&vh=541&m=1&sc=5AFSK1C7VNHSD7KRB97Y&ue=3&bb=306&ns=328&be=593&fp=424&fcp=424&pc=18224&tc=-4198&na_=-4198&ul_=-1707307441878&_ul=-1707307441878&rd_=-1707307441878&_rd=-1707307441878&fe_=-4063&lk_=-2943&_lk=-2943&co_=-2943&_co=-1388&sc_=-2836&rq_=-1386&rs_=-41&_rs=211&dl_=-7&di_=927&de_=928&_de=928&_dc=18224&ld_=18224&_ld=-1707307441878&ntd=0&ty=0&rc=0&hob=2&hoe=4&ld=18226&t=1707307460104&ctb=1&rt=__ld:102-6-3-90-4-0-1&ec=51&ecf=0&csmtags=aui|aui:aui_build_date:3.24.1-2024-02-05|mutObsYes|navbar|FWCIMEnabled|fls-na-amazon-com|perfYes|ak_cdn_fr|ak_cdn_mp|aui:sw:page_proxy:no_ctrl|adblk_yes&viz=visible:3&pty=Gateway&spty=desktop&pti=desktop&tid=5AFSK1C7VNHSD7KRB97Y&aftb=1&lob=1 HTTP/1.1
+Host: www.amazon.com
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+device-memory: 8
+rtt: 50
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-viewport-width: 1280
+sec-ch-device-memory: 8
+viewport-width: 1280
+sec-ch-ua-platform-version: "10.0.0"
+dpr: 1
+downlink: 5.55
+sec-ch-dpr: 1
+ect: 4g
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.amazon.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: session-id=133-6658273-5713951; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn="L5Z9:IN"; skin=noskin; csm-hit=tb:s-5AFSK1C7VNHSD7KRB97Y|1707307442184&t:1707307444148&adb:adblk_yes
+

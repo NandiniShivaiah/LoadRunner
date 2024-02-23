@@ -1,0 +1,5 @@
+"{\"nc\":{\"iid\":\"95xr4jrmyo000000\",\"fm\":\"organic\",\"mpid\":\"FLIPKART\",\"pn\":\"homepa"
+"ge\",\"pt\":\"hp\",\"meta\":{\"sMode\":\"BLUE\",\"loc\":{\"ipInfo\":{\"country\":\"India\",\"s"
+"tate\":\"Karnataka\",\"city\":\"Bengaluru\",\"ip\":\"10.54.134.149\"}}},\"ssid\":\"17077335907"
+"41\",\"ppt\":\"sp\",\"ppn\":\"sp\"},\"e\":[{\"t\":1707733027239,\"en\":\"PV\",\"_ev\":\"3.5\","
+"\"ib\":false}]}"

@@ -1,0 +1,10 @@
+[t86]
+FileName1=t85.json
+URL1=https://2.rome.api.flipkart.com/api/1/fdp
+Total=1
+SnapshotXmlFile=snapshot_86.xml
+RequestHeaderFile=t86_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t86_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

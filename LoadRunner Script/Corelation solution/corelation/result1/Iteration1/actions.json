@@ -1,0 +1,44 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: thinking-tester-contact-list.herokuapp.com",
+                "infFile": "t1.inf",
+                "time": 1708586800595
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: login",
+                "infFile": "t4.inf",
+                "time": 1708586801226
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: contactList",
+                "infFile": "t5.inf",
+                "time": 1708586801799
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: contacts",
+                "infFile": "t6.inf",
+                "time": 1708586802249
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: json",
+                "infFile": "t7.inf",
+                "time": 1708586802680
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t8.inf",
+                "time": 1708586803149
+            }
+        ],
+        "transactions": []
+    }
+]

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\Corelation solution\corelation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\corelation solution\corelation\\logfile.log
+d:\loadrunner script\corelation solution\corelation\\combined_corelation.c
+d:\loadrunner script\corelation solution\corelation\\pre_cci.c

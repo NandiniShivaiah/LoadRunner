@@ -1,0 +1,19 @@
+POST /log?format=json&hasfast=true HTTP/1.1
+Host: play.google.com
+Connection: keep-alive
+Content-Length: 1442
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Accept: */*
+Origin: https://www.google.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.google.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en;q=0.9
+Cookie: 1P_JAR=2024-02-05-10; AEC=Ae3NU9OO84Xpvrg4AVCNpjM9m1K7pJuIJQFcZI_whZC4m9gQRBikwssXvw; NID=511=Gq9hDyLlzjNhjwdvdX_jmtaB5YtS9U8oWFOWzN0IsTYIX2ws5eN83fmt3NWGrlRQ8cMcHIB3VPWsqsP9KQ0HNemdDwQy-LukqIxzbLQmVSJXZVbF31l8KIXa7DY1qzM-UE0oHZP08heiqbUSz2GiQUap4gmJqIgf02m2Bj8gxwsw89LkDkxylXJK
+

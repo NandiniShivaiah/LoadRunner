@@ -1,0 +1,11 @@
+[t15]
+FileName1=t15.html
+URL1=https://nel.heroku.com/reports?ts=1707204103&sid=67ff5de4-ad2b-4112-9289-cf96be89efed&s=Jo%2FJbPaC73Vdvfr9%2F3geTpZlsgKYWzITndl%2BDaGfLI0%3D
+Total=1
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_10.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

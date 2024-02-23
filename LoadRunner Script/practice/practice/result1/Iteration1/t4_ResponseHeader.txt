@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Cowboy
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1708588208&sid=af571f24-03ee-46d1-9f90-ab9030c2c74c&s=JVO%2BE%2BEFcA37fXOK5cTLUAOn9uji5BD%2By66XftXVfJc%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1708588208&sid=af571f24-03ee-46d1-9f90-ab9030c2c74c&s=JVO%2BE%2BEFcA37fXOK5cTLUAOn9uji5BD%2By66XftXVfJc%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Connection: keep-alive
+X-Powered-By: Express
+Set-Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWQ2ZjBmZWI1OGZkNzAwMTM2MmVhMzYiLCJpYXQiOjE3MDg1ODgyMDh9.S_8mbhRJh3IcOS2pYCHHjfAtjigS90EC_RXiBQRnc9A; Max-Age=36000; Path=/; Expires=Thu, 22 Feb 2024 17:50:08 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 271
+Etag: W/"10f-+7g+FelraqQzpjSA+O55KNuQbiI"
+Date: Thu, 22 Feb 2024 07:50:08 GMT
+Via: 1.1 vegur
+

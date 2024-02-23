@@ -1,0 +1,5 @@
+﻿"Transaction Name","Minimum","Average","Maximum"
+"Dynamic_ID_Transaction","0.913","0.931","0.996"
+"Dynamic_Table_Transaction","1.472","1.686","2.469"
+"vuser_end_Transaction","0","0","0"
+"vuser_init_Transaction","1.707","1.752","1.804"

@@ -1,0 +1,7 @@
+"[{\"nc\":{\"iid\":\"7kk9nuebeo0000001707732958686\",\"fm\":\"Search\",\"mpid\":\"FLIPKART\",\""
+"pn\":\"sp\",\"pt\":\"sp\",\"meta\":{\"sMode\":\"BLUE\",\"loc\":{\"ipInfo\":{\"country\":\"Indi"
+"a\",\"state\":\"Karnataka\",\"city\":\"Bengaluru\",\"ip\":\"10.54.169.38\"}}},\"ssid\":\"sgwy8"
+"t0zq80000001707732958686\",\"ppt\":\"hp\",\"ppn\":\"homepage\",\"ss\":\"BrowsePageContext\"},\""
+"e\":[{\"en\":\"AE\",\"ev\":[{\"name\":\"TTFB\",\"value\":446.29999999701977}],\"mt\":{\"appVer"
+"sion\":\"6.10.0\",\"platform\":\"desktop\",\"source\":\"network\",\"pageName\":\"Search\",\"pa"
+"geUri\":\"/search\"},\"nm\":\"desktop-web-vitals\",\"t\":1707732994805}]}]"

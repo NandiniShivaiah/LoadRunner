@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 27972
+Connection: keep-alive
+Server: Server
+Date: Mon, 07 Aug 2023 00:18:14 GMT
+X-Amz-Ir-Id: b570b2ca-509f-40c9-b095-f94914e8519c
+Cache-Control: max-age=630720000,public
+Last-Modified: Tue, 17 Nov 2020 23:31:33 GMT
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: https://www.amazon.in, https://www.amazon.com
+Edge-Cache-Tag: x-cache-739,/images/S/sash/mPGmT0r6IeTyIee
+Expires: Tue, 16 Jun 2043 17:19:20 GMT
+Surrogate-Key: x-cache-739 /images/S/sash/mPGmT0r6IeTyIee
+X-Nginx-Cache-Status: HIT
+Accept-Ranges: bytes
+Via: 1.1 40c1ab430a24c7f7e45ddf358c27219e.cloudfront.net (CloudFront)
+Age: 15940011
+Server-Timing: provider;desc="cf"
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: BLR50-P2
+X-Amz-Cf-Id: E-lLlWyCa4OjAWsBKK4GZjXYSjXZZ83euBdVyJ5ZQUyss92dSGJMJg==
+

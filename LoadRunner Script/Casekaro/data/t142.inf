@@ -1,0 +1,10 @@
+[t142]
+FileName1=t141.txt
+URL1=https://fls-na.amazon.com/1/batch/1/OE/
+Total=1
+SnapshotXmlFile=snapshot_142.xml
+RequestHeaderFile=t142_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t142_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

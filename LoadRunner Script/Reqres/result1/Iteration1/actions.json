@@ -1,0 +1,98 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: reqres.in",
+                "infFile": "t1.inf",
+                "time": 1707215198850
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: CE7D6K3E.json_2",
+                "infFile": "t2.inf",
+                "time": 1707215200006
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: CK7DT53I.json_2",
+                "infFile": "t3.inf",
+                "time": 1707215200332
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+                "infFile": "t4.inf",
+                "time": 1707215200838
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: inner.html",
+                "infFile": "t5.inf",
+                "time": 1707215200976
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: 851290892918a90b",
+                "infFile": "t6.inf",
+                "time": 1707215201953
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: 6",
+                "infFile": "t7.inf",
+                "time": 1707215203466
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: users",
+                "infFile": "t8.inf",
+                "time": 1707215205080
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: json",
+                "infFile": "t9.inf",
+                "time": 1707215205855
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: j17lt.csb.app",
+                "infFile": "t11.inf",
+                "time": 1707215207962
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: 2",
+                "infFile": "t12.inf",
+                "time": 1707215208117
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: users_2",
+                "infFile": "t13.inf",
+                "time": 1707215208619
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: 2_2",
+                "infFile": "t14.inf",
+                "time": 1707215209221
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: 2_3",
+                "infFile": "t15.inf",
+                "time": 1707215209645
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: 2_4",
+                "infFile": "t16.inf",
+                "time": 1707215210087
+            }
+        ],
+        "transactions": []
+    }
+]

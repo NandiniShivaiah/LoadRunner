@@ -1,0 +1,10 @@
+[t45]
+FileName1=t43_codes.json
+URL1=https://static-assets-web.flixcart.com/www/linchpin/batman-returns/codes.json
+Total=1
+SnapshotXmlFile=snapshot_45.xml
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

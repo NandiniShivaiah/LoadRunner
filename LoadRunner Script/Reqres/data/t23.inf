@@ -1,0 +1,10 @@
+[t23]
+FileName1=t18_CK7DT53I.json
+URL1=https://srv.carbonads.net/ads/CK7DT53I.json?segment=placement:reqresin
+Total=1
+SnapshotXmlFile=snapshot_23.xml
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t23_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

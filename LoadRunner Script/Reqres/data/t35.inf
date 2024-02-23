@@ -1,0 +1,10 @@
+[t35]
+FileName1=t33.txt
+URL1=https://codesandbox.io/cdn-cgi/challenge-platform/h/g/jsd/r/851290892918a90b
+Total=1
+SnapshotXmlFile=snapshot_35.xml
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t35_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t73]
+FileName1=t73.txt
+URL1=https://fls-na.amazon.com/1/batch/1/OE/
+Total=1
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=t73_RequestBody.txt
+ResponseHeaderFile=t73_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_73.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

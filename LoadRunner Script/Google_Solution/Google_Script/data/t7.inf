@@ -1,0 +1,17 @@
+[t7]
+FileName1=t7.html
+URL1=https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=57oxOBvCz9pMOcr26yQsbg%3D%3D
+Total=4
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=t7_RequestBody.txt
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=application/vnd.google.octet-stream-compressible
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_images.png
+URL2=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtTAzc2YkpjeeHuAZMrdHXdjLC08MmdAY8f-kcSqO9yjz_IHpIsYE2-ICyu9vsgxXPXxo
+FileName3=t7_images.png
+URL3=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfckeP2jtbHJlXra0Abnq7Kbf0eQ6iVg8Snltj4_Sdb0EFjwHyP8A
+FileName4=t7_images.png
+URL4=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyOqARvJ5ODGOAg4NOKD7nGQ_wFDazMrH30KQi3QE81jLS9PpHnI4AGhhAXLN5XTN3pts
+[ProtocolInfo]
+ProtocolId=QTWeb

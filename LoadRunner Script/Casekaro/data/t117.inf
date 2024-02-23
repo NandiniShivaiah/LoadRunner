@@ -1,0 +1,11 @@
+[t117]
+FileName1=t117.txt
+URL1=https://fls-na.amazon.com/1/batch/1/OE/
+Total=1
+RequestHeaderFile=t117_RequestHeader.txt
+RequestBodyFile=t117_RequestBody.txt
+ResponseHeaderFile=t117_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_117.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,2 @@
+"facility=Tokyo+CURA+Healthcare+Center&hospital_readmission=Yes&programs=Medicare&visit_date=06"
+"%2F02%2F2024&comment=Demo"

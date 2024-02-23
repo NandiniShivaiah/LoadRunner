@@ -1,0 +1,6 @@
+"{\"nc\":{\"iid\":\"68y1pmb72o000000\",\"fm\":\"organic\",\"mpid\":\"FLIPKART\",\"pn\":\"homepa"
+"ge\",\"pt\":\"hp\",\"meta\":{\"sMode\":\"BLUE\",\"loc\":{\"ipInfo\":{\"country\":\"India\",\"s"
+"tate\":\"Karnataka\",\"city\":\"Bengaluru\",\"ip\":\"10.48.134.15\"}}},\"ssid\":\"170773349678"
+"8\",\"ppt\":\"hp\",\"ppn\":\"homepage\"},\"e\":[{\"en\":\"ABE\",\"abi\":[{\"abId\":\"STG|5PQY1"
+"WIBKomcdDb2IdYNgT|7d263909|h\"},{\"abId\":\"STG|5IHkk2yDS1ga6aW3QIho1R|6b46eef8|h\"},{\"abId\""
+":\"STG|3Jw9yhv5GVL9GNHb4fvj8e|e3a195d0|h\"}],\"t\":1707732952383}]}"

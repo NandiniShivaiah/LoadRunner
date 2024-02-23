@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+server: nginx
+date: Mon, 12 Feb 2024 10:25:18 GMT
+content-type: application/json
+transfer-encoding: chunked
+access-control-allow-origin: https://www.flipkart.com
+access-control-expose-headers: X-BOT
+access-control-allow-methods: POST, GET, OPTIONS, DELETE, PUT
+access-control-allow-headers: X-ACK-RESPONSE,X-PARTNER-CONTEXT
+access-control-max-age: 2592000
+access-control-allow-credentials: true
+x-request-id: 9bc3ee66-4b6e-4289-a88a-e4a2700bbeb6
+pragma: no-cache
+x-payload-length: 14782
+cache-control: private
+x-content-language: en
+Set-Cookie: at=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3MDk0NjE0MDksImlhdCI6MTcwNzczMzQwOSwiaXNzIjoia2V2bGFyIiwianRpIjoiNjk0MDk5M2QtZTk1OS00ZTU5LWIxZGYtNTQ4MDVmMmFhYWJkIiwidHlwZSI6IkFUIiwiZElkIjoiY2xzaXNkbzg2MHI3YjFpYmZ2YnFmbXN4bS1CUjE3MDc3MzM0MDk3NjYiLCJrZXZJZCI6IlZJNTA4NzI2NzJDM0QyNDAyNEE0QUIxMzg3QkIxN0QwQzYiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.NW7crX9TVA09enk6aO7t3B6HuHO1WNRIFmH3OcNfN4c;Version=1;Path=/;Domain=flipkart.com;Expires=Sat, 10-Aug-2024 10:25:18 GMT;Max-Age=15552000;Secure;HttpOnly;SameSite=None
+Set-Cookie: rt=null;Version=1;Path=/;Domain=flipkart.com;Expires=Sat, 10-Aug-2024 10:25:18 GMT;Max-Age=15552000;Secure;HttpOnly;SameSite=None
+vary: Accept-Encoding, User-Agent
+content-encoding: gzip
+x-bifrost-request-id: 9bc3ee66-4b6e-4289-a88a-e4a2700bbeb6
+Set-Cookie: S=d1t10dD9PPz9NP28/P1dbPz83KhekLCrRs65RUXK3gth5w67tZa3wyPshiAk3xnJWGBDKxQ4iOCPx4p5dKzyZnZnYyA==;Version=1;Path=/;Domain=flipkart.com;Expires=Sat, 10-Aug-2024 10:25:18 GMT;Max-Age=15552000;Secure;HttpOnly;SameSite=None
+Set-Cookie: SN=VI50872672C3D24024A4AB1387BB17D0C6.TOK0D0D1E7F5F08452CAA54811DEB6842AA.1707733496.LO;Version=1;Path=/;Domain=flipkart.com;Expires=Sat, 10-Aug-2024 10:25:18 GMT;Max-Age=15552000;Secure;HttpOnly;SameSite=None
+accept-ch: Sec-CH-UA,Sec-CH-UA-Arch,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version
+

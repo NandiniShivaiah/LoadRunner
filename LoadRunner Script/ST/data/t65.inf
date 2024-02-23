@@ -1,0 +1,12 @@
+[t65]
+FileName1=t63.gif
+URL1=https://flipkart.d1.sc.omtrdc.net/b/ss/flipkart-prd/1/JS-1.5.1/s36546555875647
+Total=1
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

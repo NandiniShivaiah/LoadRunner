@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Last-Modified: Sat, 21 May 2022 08:00:11 GMT
+ETag: "02fa5a217d09f4ccbf6f5168171c7805"
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: viewport-width, dpr
+Content-Type: text/javascript
+Content-Encoding: br
+Content-Length: 17866
+Expires: Mon, 12 Feb 2024 10:23:32 GMT
+Date: Mon, 12 Feb 2024 10:23:32 GMT
+Connection: keep-alive
+

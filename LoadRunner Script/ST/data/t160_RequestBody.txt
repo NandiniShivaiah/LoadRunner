@@ -1,0 +1,7 @@
+"[{\"nc\":{\"iid\":\"7kk9nuebeo0000001707732958686\",\"fm\":\"Search\",\"mpid\":\"FLIPKART\",\""
+"pn\":\"sp\",\"pt\":\"sp\",\"meta\":{\"sMode\":\"BLUE\",\"loc\":{\"ipInfo\":{\"country\":\"Indi"
+"a\",\"state\":\"Karnataka\",\"city\":\"Bengaluru\",\"ip\":\"10.54.169.38\"}}},\"ssid\":\"sgwy8"
+"t0zq80000001707732958686\",\"ppt\":\"hp\",\"ppn\":\"homepage\",\"ss\":\"BrowsePageContext\"},\""
+"e\":[{\"en\":\"DCI\",\"iid\":\"en_TXJWCwlUlgSe2wbt_qifYOrqUScLyG83KQuW-Lt0RwIC-Tj5gCfSjPzBPlWF"
+"0XkXhK5CvTcDVymHd9LmRAhsuw==\",\"p\":1,\"ct\":\"ProductCard\",\"t\":1707733023698,\"st\":17077"
+"32960005,\"f\":true,\"pv\":100,\"_ev\":\"3.1\"}]}]"

@@ -1,0 +1,56 @@
+Virtual User Script started at: 07-02-2024 17:37:08
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2023.0.0 for Windows 10; build 506 (Mar 08 2023 13:11:40)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\LoadRunner Script\Casekaro\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_url("seed") started  	[MsgId: MMSG-26355]
+Action.c(6): HTML parsing not performed for Content-Type "application/octet-stream" ("ParseHtmlContentType" Runtime Setting is "TEXT"). URL="https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=121"  	[MsgId: MMSG-26547]
+Action.c(6): web_url("seed") was successful, 367945 body bytes, 377 header bytes  	[MsgId: MMSG-26386]
+Action.c(16): web_concurrent_start started  	[MsgId: MMSG-26355]
+Action.c(16): web_concurrent_start was successful  	[MsgId: MMSG-26392]
+Action.c(18): web_url("41-WpIOxHtL._RC%7C71z85BIz8wL.css,41hk4fqGa9L.css,11KAm1wkQdL.css,31-P1-9TebL.css,31YZpDCYJPL.css,21pkK7OQMnL.css,41yQj5y2obL.css,110Nj+wUGYL.css,31OvHRW+XiL.css,01R53xsjpjL.css,11EKggV-DlL.css,41yKpE") started  	[MsgId: MMSG-26355]
+Action.c(18): Registering web_url("41-WpIOxHtL._RC%7C71z85BIz8wL.css,41hk4fqGa9L.css,11KAm1wkQdL.css,31-P1-9TebL.css,31YZpDCYJPL.css,21pkK7OQMnL.css,41yQj5y2obL.css,110Nj+wUGYL.css,31OvHRW+XiL.css,01R53xsjpjL.css,11EKggV-DlL.css,41yKpE") was successful  	[MsgId: MMSG-26390]
+Action.c(26): web_url("01rGP6HIADL.js") started  	[MsgId: MMSG-26355]
+Action.c(26): Registering web_url("01rGP6HIADL.js") was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_url("11y85pohsPL._RC%7C41JZmnaIUdL.js_.js") started  	[MsgId: MMSG-26355]
+Action.c(34): Registering web_url("11y85pohsPL._RC%7C41JZmnaIUdL.js_.js") was successful  	[MsgId: MMSG-26390]
+Action.c(42): web_url("31YI0nnbQAL.js") started  	[MsgId: MMSG-26355]
+Action.c(42): Registering web_url("31YI0nnbQAL.js") was successful  	[MsgId: MMSG-26390]
+Action.c(50): web_url("41W974vG8QL._RC%7C71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11") started  	[MsgId: MMSG-26355]
+Action.c(50): Registering web_url("41W974vG8QL._RC%7C71p1TlwfecL.js,01QvReFeJyL.js,01phmzCOwJL.js,01eOvPdxG7L.js,71l6yeh3txL.js,41306Iio4NL.js,115pV8Rl02L.js,01+pnQJuQ0L.js,21cN4KWOfCL.js,41nqF5HJopL.js,51LATRRqTgL.js,31Pa7Gj4ZBL.js,11") was successful  	[MsgId: MMSG-26390]
+Action.c(58): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(34): Warning -26603: Unsupported "Content-Encoding"   [issued at Action.c(58)]  	[MsgId: MWAR-26603]
+Action.c(26): Warning -26603: Unsupported "Content-Encoding"   [issued at Action.c(58)]  	[MsgId: MWAR-26603]
+Action.c(18): Warning -26603: Unsupported "Content-Encoding"   [issued at Action.c(58)]  	[MsgId: MWAR-26603]
+Action.c(42): Warning -26603: Unsupported "Content-Encoding"   [issued at Action.c(58)]  	[MsgId: MWAR-26603]
+Action.c(50): Warning -26603: Unsupported "Content-Encoding"   [issued at Action.c(58)]  	[MsgId: MWAR-26603]
+Action.c(58): web_concurrent_end highest severity level was "warning", 183247 body bytes, 3159 header bytes  	[MsgId: MMSG-26388]
+Action.c(60): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(60): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(62): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(62): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(64): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(64): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(68): web_custom_request("com.amazon.csm.nexusclient.prod") started  	[MsgId: MMSG-26355]
+Action.c(68): web_custom_request("com.amazon.csm.nexusclient.prod") was successful, 22 body bytes, 381 header bytes  	[MsgId: MMSG-26386]
+Action.c(81): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(81): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(83): web_custom_request("OE") started  	[MsgId: MMSG-26355]
+Action.c(83): web_custom_request("OE") was successful, 0 body bytes, 122 header bytes  	[MsgId: MMSG-26386]
+Action.c(97): web_custom_request("command") started  	[MsgId: MMSG-26355]
+Action.c(97): Error -26630: HTTP Status-Code=400 (Bad Request) for "https://clients4.google.com/chrome-sync/command/?client=Google+Chrome&client_id=57oxOBvCz9pMOcr26yQsbg%3D%3D"  	[MsgId: MERR-26630]
+Action.c(97): web_custom_request("command") highest severity level was "ERROR", 31 body bytes, 482 header bytes  	[MsgId: MMSG-26388]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

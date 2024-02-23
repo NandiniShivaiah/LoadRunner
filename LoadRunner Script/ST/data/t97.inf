@@ -1,0 +1,10 @@
+[t97]
+FileName1=t91.json
+URL1=https://2.rome.api.flipkart.com/api/4/data/collector/business
+Total=1
+SnapshotXmlFile=snapshot_97.xml
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t97_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Server
+Date: Wed, 07 Feb 2024 12:04:24 GMT
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 65
+Connection: keep-alive
+x-amz-rid: M6D6DP8AD4FTEVDGPM40
+Cache-Control: max-age=0, no-cache, no-store, private, must-revalidate, s-maxage=0
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+p3p: policyref="https://www.amazon.com/w3c/p3p.xml", CP="PSAo PSDo OUR SAM OTR DSP COR"
+Vary: Content-Type,Accept-Encoding,User-Agent
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+

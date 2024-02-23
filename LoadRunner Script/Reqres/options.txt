@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner Script\Reqres
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loadrunner script\reqres\\logfile.log
+d:\loadrunner script\reqres\\combined_Reqres.c
+d:\loadrunner script\reqres\\pre_cci.c

@@ -1,0 +1,4 @@
+"{\"rid\":\"562BTTCMD49RYK95H956\",\"sid\":\"133-6658273-5713951\",\"mid\":\"ATVPDKIKX0DER\",\""
+"sn\":\"www.amazon.com\",\"reqs\":[{\"csmcount\":{\"counter\":\"SignInSubmitOnDesktop\",\"value"
+"\":1,\"t\":12318}},{\"csm\":{\"k\":\"chk\",\"f\":3,\"l\":{\"csmcount\":28,\"csm\":3,\"cel\":1}"
+",\"s\":\"full\"}},{\"csmcount\":{\"counter\":\"foresterPayloadSize\",\"t\":0,\"value\":317}}]}"

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: image/webp
+ETag: 1be62329ab7c3ab48678e9f96ad94b35
+Content-Encoding: gzip
+Content-Length: 2393
+Cache-Control: max-age=2592000
+Date: Mon, 12 Feb 2024 10:24:58 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+Vary: Accept
+

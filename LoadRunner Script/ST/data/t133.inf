@@ -1,0 +1,10 @@
+[t133]
+FileName1=t132.json
+URL1=https://2.rome.api.flipkart.com/api/4/discover/autosuggest
+Total=1
+SnapshotXmlFile=snapshot_133.xml
+RequestHeaderFile=t133_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t133_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

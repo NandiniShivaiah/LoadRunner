@@ -1,0 +1,15 @@
+[t89]
+FileName1=t88.htm
+URL1=https://www.flipkart.com/
+Total=3
+SnapshotXmlFile=snapshot_89.xml
+RequestHeaderFile=t89_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t89_ResponseHeader.txt
+FileName2=t89_aa1b2bdcf519b468.webp
+URL2=https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/aa1b2bdcf519b468.jpg?q=20
+ContentType=image/webp
+FileName3=t89_352e6f0f8034fab5.webp
+URL3=https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/352e6f0f8034fab5.jpg?q=20
+[ProtocolInfo]
+ProtocolId=QTWeb

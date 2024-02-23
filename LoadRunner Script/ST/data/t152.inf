@@ -1,0 +1,10 @@
+[t152]
+FileName1=t150.htm
+URL1=https://www.flipkart.com/search?q=laptop&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+Total=1
+SnapshotXmlFile=snapshot_152.xml
+RequestHeaderFile=t152_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t152_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
